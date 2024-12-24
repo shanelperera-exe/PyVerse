@@ -10,10 +10,10 @@ MY_HEIGHT_CM = 165.5
 AGE = 21
 
 MY_USERNAME = "shanelperera"
-MY_PASSWORD = os.environ["SHEETY_PASSWORD"]
+MY_PASSWORD = os.environ["SHEETY_WORKOUT_PASSWORD"]
 
 exercise_endpoint = "https://trackapi.nutritionix.com/v2/natural/exercise"
-sheet_endpoint = os.environ["SHEETY_ENDPOINT"]
+sheet_endpoint = os.environ["SHEETY_WORKOUT_ENDPOINT"]
 
 exercise_text = input("Tell me which exercises you did: ")
 

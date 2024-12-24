@@ -74,6 +74,5 @@ def create_playlist(date, songs):
     sp.playlist_add_items(playlist_id=playlist["id"], items=songs)
     print(f"\nPlaylist {date} Billboard 100 created successfully.")
 
-
 if __name__ == "__main__":
     main()
