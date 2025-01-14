@@ -1,0 +1,155 @@
+.title1 {
+    font-family: "Outfit", sans-serif;
+    font-weight: bold;
+    font-size: 7rem;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+html, body {
+    font-family: "Outfit", sans-serif;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: url('../static/bookshelf.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.logo {
+    width: 150px; /* Adjust size of logo */
+    height: auto;
+    display: block;
+    padding-top: 10px;
+    margin: 0 auto 10px; /* Center the logo */
+    border-radius: 50%; /* Makes the image circular */
+    object-fit: cover; /* Ensures the image is zoomed and cropped */
+    object-position: center; /* Ensures the center of the image is focused */
+} 
+
+.paragraph {
+    font-family: "Outfit", sans-serif;
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+ul.list-group {
+    font-family: "Outfit", sans-serif;
+    margin-top: 30px;
+    max-width: 300px;
+    margin: 0 auto 10px;
+}
+
+.btn {
+    font-family: "Outfit", sans-serif;
+    font-size: 1rem;
+    margin-bottom: 30px;
+}
+
+/* Style for the form container */
+.form {
+    max-width: 500px; /* Limit the width of the form */
+    margin: 50px auto; /* Center the form vertically and horizontally */
+    padding: 2rem; /* Add padding inside the form */
+    background-color: rgba(255, 255, 255, 0.8); /* Reduced transparency */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  }
+  
+/* Style for input fields */
+.form .form-control {
+font-size: 1rem; /* Adjust font size */
+padding: 1rem; /* Add padding inside inputs */
+border-radius: 5px; /* Slightly rounded inputs */
+border: 1px solid rgba(255, 255, 255, 0.3); /* Transparent border */
+background-color: rgba(255, 255, 255, 0.9); /* Slight transparency for input fields */
+color: black; /* Black text for better contrast */
+}
+
+/* Style for input labels */
+.form .form-label {
+font-weight: bold;
+font-size: 1.1rem;
+color: black; /* Black text for labels */
+}
+
+/* Style for the form title */
+.title2 {
+font-family: 'Outfit', sans-serif;
+font-size: 5rem; /* Adjust title size */
+margin-bottom: 20px; /* Space below the title */
+color: white; /* White text for the title */
+text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5); /* Subtle text shadow */
+}
+
+  /* Style for the SVG icons */
+.form svg {
+    margin-right: 8px; /* Space between SVG and label text */
+    vertical-align: middle; /* Align SVG with label text */
+    color: #6c757d; /* Neutral color for SVG icons */
+  }
+
+.form .mb-3 svg {
+flex-shrink: 0; /* Prevent SVG from resizing */
+margin-right: 12px; /* Add spacing to the right of the SVG */
+}
+
+.btn-icon {
+    display: inline-flex; /* Use inline-flex for content alignment */
+    align-items: center; /* Vertically align icon and text */
+    gap: 0.4rem; /* Adjust spacing between icon and text */
+    padding: 0.5rem 1rem; /* Adjust padding for the button */
+    min-width: fit-content; /* Ensure button width fits content */
+    text-decoration: none; /* Remove underline on link */
+  }
+  
+  .bi {
+    vertical-align: middle; /* Ensure SVG aligns with text baseline */
+  }
+
+.btnadd {
+    margin-bottom: 10px;
+}
+
+ul.list-group {
+    font-family: "Outfit", sans-serif;
+    margin-top: 30px;
+    max-width: 1000px; /* Increased width */
+    margin: 0 auto 10px;
+}
+
+.list-group-item {
+    white-space: nowrap; /* Prevents text from wrapping */
+    overflow: hidden; /* Hides overflow text */
+    text-overflow: ellipsis; /* Adds ellipsis for overflow text */
+    padding: 0.75rem 1.25rem; /* Adds spacing for better readability */
+    display: flex;
+    justify-content: space-between; /* Aligns text and badge */
+    align-items: center; /* Vertically aligns elements */
+}
+
+.list-group-item div {
+    flex-grow: 1; /* Allows the text container to use available space */
+    overflow: hidden; /* Hides overflow text */
+    text-overflow: ellipsis; /* Adds ellipsis for overflow text */
+}
+
+.editpill {
+    margin-left: 10px;
+}
+
+.badge {
+    font-size: 1rem; /* Adjusts badge size for better readability */
+    background-color: skyblue; /* Sets the badge color to sky blue */
+    font-family: "Outfit", sans-serif;
+}
+
+h4.mb-0 {
+    display: block; /* Ensures each h4 element is displayed as a block element */
+    margin-bottom: 10px; /* Adds some space between the lines */
+  }
+
+  
