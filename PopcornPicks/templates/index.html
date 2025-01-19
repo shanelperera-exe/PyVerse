@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+
+{% block title %}Popcorn Picks{% endblock %}
+
+{% block content %}
+  <div class="index-page">
+    <div>
+      <div>
+        <h1 class="heading">Popcorn Picks</h1>
+        <h4 class="description">My Top Favourite Movies & TV Shows</h4>
+      </div>
+    </div>
+  
+    <div class="container">
+      <div class="row justify-content-center g-4">
+        <!-- Movie Card -->
+        <div class="col-md-5 d-flex justify-content-center">
+          <a href="{{ url_for('movies') }}" class="card-link">
+            <div class="card custom-card">
+              <img src="../static/movie.jpg" class="card-img" alt="Movie Poster">
+              <div class="card-img-overlay d-flex align-items-end">
+                <h5 class="card-title">Top Favourite Movies</h5>
+              </div>
+            </div>
+          </a>
+        </div>
+        
+        <!-- TV Show Card -->
+        <div class="col-md-5 d-flex justify-content-center">
+          <a href="{{ url_for('tv') }}" class="card-link">
+            <div class="card custom-card">
+              <img src="../static/tv.png" class="card-img" alt="TV Show Poster">
+              <div class="card-img-overlay d-flex align-items-end">
+                <h5 class="card-title">Top Favourite TV Shows</h5>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+{% endblock %}

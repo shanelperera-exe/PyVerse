@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+
+{% block title %}My Top Favourite TV Shows{% endblock %}
+
+{% block content %}
+<div class="container item-page tv">
+  <h1 class="heading">My Top Favourite TV Shows</h1>
+  <h4 class="description">These are my all-time favourite TV Shows.</h4>
+
+  {% for show in shows %}
+  <div class="card">
+    <div class="front" style="background-image: url('{{ show.img_url }}');">
+        <p class="large">{{ show.ranking }}</p>
+    </div>
+    <div class="back">
+      <div>
+        <div class="title">{{ show.title }} <span class="release_date">({{ show.year }})</span></div>
+        <div class="rating">
+            <span class="badge text-bg-dark rounded-pill p-2">
+              <label class="rating-text">{{ show.rating }}</label>
+              <i class="fas fa-star star"></i>
+            </span>
+          </div>
+        <p class="review">"{{ show.review }}"</p>
+        <p class="overview">
+          {{ show.description }}
+        </p>
+        <a href="{{ url_for('rate_media', type='tv', id=show.id) }}" class="btn btn-primary rounded-pill">Update</a>
+        <a href="{{ url_for('delete_media', type='tv', id=show.id) }}" class="btn btn-outline-danger rounded-pill">Delete</a>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+  
+  <div class="text-center mt-4">
+    <a href="{{ url_for('add_media', type='tv') }}" class="btn btn-success rounded-pill">Add TV Show</a>
+  </div>
+</div>
+
+{% endblock %}
