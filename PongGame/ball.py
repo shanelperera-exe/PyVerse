@@ -1,4 +1,3 @@
-from audioop import reverse
 from turtle import Turtle
 
 class Ball(Turtle):
