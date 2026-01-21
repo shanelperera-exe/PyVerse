@@ -1,6 +1,8 @@
 from random import randint
 import time
 import my_thread
+import os
+from queue import Queue
 
 def get_image_urls(count):
     if count <= 0:
@@ -25,14 +27,23 @@ def main():
         urls_list.append(l)
 
     threads = []
+    results = Queue()
 
     for i in range(0, num_of_threads):
-        thread = my_thread.ImageDownloader(i, f"Thread-{i}", urls_list[i])
+        thread = my_thread.ImageDownloader(i, f"Thread-{i}", urls_list[i], results)
+        os.makedirs("images", exist_ok=True)
         thread.start()
         threads.append(thread)
     
     for thread in threads:
         thread.join()
+
+    success_count = 0
+
+    while not results.empty():
+        success_count += results.get()
+
+    print(f"{success_count} images downloaded successfully.")
 
     diff = time.time_ns() - start
     print(f"Program Duration: {diff / 1000000}")
