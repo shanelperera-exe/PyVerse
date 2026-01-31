@@ -1,0 +1,6039 @@
+[
+  {
+    "url": "https://www.formula1.com/",
+    "status": 200,
+    "data": {
+      "title": "F1 - The Official Home of Formula 1® Racing",
+      "word_count": 786
+    },
+    "error": null,
+    "depth": 0
+  },
+  {
+    "url": "https://f1store.formula1.com/en/?_s=bm-fi-f1-prtsite-topnav-230720-jm",
+    "status": 403,
+    "data": null,
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.f1authentics.com/",
+    "status": 200,
+    "data": {
+      "title": "Official Home of F1® Memorabilia\n        \n        \n        \n            – F1 Authentics",
+      "word_count": 3934
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://tickets.formula1.com/en/h-formula1-hospitality",
+    "status": 200,
+    "data": {
+      "title": "Formula 1® Hospitality",
+      "word_count": 634
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://f1experiences.com/?utm_source=formula1.com&utm_medium=referral&utm_campaign=general",
+    "status": 200,
+    "data": {
+      "title": "F1 Official Ticket & Travel Packages | F1 Experiences",
+      "word_count": 737
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://f1tv.formula1.com",
+    "status": 200,
+    "data": {
+      "title": "F1 TV",
+      "word_count": 25
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/subscribe-to-f1-tv",
+    "status": 200,
+    "data": {
+      "title": "Stream Formula 1 live | F1 TV",
+      "word_count": 865
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://account.formula1.com/",
+    "status": 200,
+    "data": {
+      "title": "Formula 1®",
+      "word_count": 10
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2026",
+    "status": 200,
+    "data": {
+      "title": "F1 Schedule 2026 - Official Calendar of Grand Prix Races",
+      "word_count": 836
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://tickets.formula1.com",
+    "status": 200,
+    "data": {
+      "title": "F1® Ticket Store | Formula1.com",
+      "word_count": 677
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2026/pre-season-testing-2",
+    "status": 200,
+    "data": {
+      "title": "2026 F1 Pre-Season Testing - Bahrain - Test 2",
+      "word_count": 938
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2026/pre-season-testing-1",
+    "status": 200,
+    "data": {
+      "title": "2026 F1 Pre-Season Testing - Bahrain - Test 1",
+      "word_count": 938
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2026/china",
+    "status": 200,
+    "data": {
+      "title": "Chinese Grand Prix 2026 - F1 Race",
+      "word_count": 924
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2025/races",
+    "status": 200,
+    "data": {
+      "title": "2025 RACE RESULTS",
+      "word_count": 844
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2025/races/1276/abu-dhabi/race-result",
+    "status": 200,
+    "data": {
+      "title": "FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2025 - RACE RESULT",
+      "word_count": 811
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2026/australia",
+    "status": 200,
+    "data": {
+      "title": "Australian Grand Prix 2026 - F1 Race",
+      "word_count": 962
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2025/drivers",
+    "status": 200,
+    "data": {
+      "title": "2025 DRIVERS' STANDINGS",
+      "word_count": 603
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2025/team",
+    "status": 200,
+    "data": {
+      "title": "2025 TEAMS' STANDINGS",
+      "word_count": 452
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1950/races/94/great-britain/race-result",
+    "status": 200,
+    "data": {
+      "title": "1950 BRITISH GRAND PRIX - RACE RESULT",
+      "word_count": 687
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/results/awards",
+    "status": 200,
+    "data": {
+      "title": "F1 Awards | Driver of the Day | DHL Fastest Lap",
+      "word_count": 337
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/latest",
+    "status": 200,
+    "data": {
+      "title": "Latest F1 News",
+      "word_count": 463
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/page/what-is-f1",
+    "status": 200,
+    "data": {
+      "title": "What is F1? Formula 1 Explained - Drivers, Teams, Calendar, Grand Prix, Sprint, Qualifying & Scoring",
+      "word_count": 743
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/page/what-is-f1-tv-pro",
+    "status": 200,
+    "data": {
+      "title": "What is F1 TV Pro? Where to watch F1 live streaming, Formula 1 shows and documentaries",
+      "word_count": 741
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/page/apple-original-films-f1-movie",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 and Apple Original Films’ movie 'F1' – All the information you need",
+      "word_count": 698
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/page/get-involved",
+    "status": 200,
+    "data": {
+      "title": "Get Involved in Formula 1",
+      "word_count": 628
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/page/2026-f1-regulations",
+    "status": 200,
+    "data": {
+      "title": "2026 FIA Formula 1 World Championship  – All the information you need to know about the new F1 regulations",
+      "word_count": 581
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/latest/article/debrief-what-happened-on-day-5-of-the-barcelona-shakedown.An1HJC2Q6cY8oygxidYQ6",
+    "status": 200,
+    "data": {
+      "title": "DEBRIEF: What happened on Day 5 of the Barcelona Shakedown?",
+      "word_count": 2829
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/latest/article/the-best-social-media-from-day-5-of-the-barcelona-shakedown.saJ2cyvVDVgiil7JDsLNF",
+    "status": 200,
+    "data": {
+      "title": "The best social media from Day 5 of the Barcelona Shakedown",
+      "word_count": 575
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/latest/article/testing-launches-and-training-why-january-could-be-the-busiest-month-for-f1.zrenuwEAOn9shcPnrS0PL",
+    "status": 200,
+    "data": {
+      "title": "Testing, launches, and training – Why January could be the busiest month for Formula 1 drivers",
+      "word_count": 1560
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/latest/article/2026-regulations-explained-all-you-need-to-know-about-f1s-advanced.4h53Szn4Z3VsD6rGcR3LtU",
+    "status": 200,
+    "data": {
+      "title": "2026 REGULATIONS EXPLAINED: All you need to know about F1's Advanced Sustainable Fuels",
+      "word_count": 1552
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/video/f1-barcelona-shakedown-2026-day-5-highlights.1855775394426911828",
+    "status": 200,
+    "data": {
+      "title": "F1 Barcelona Shakedown 2026: Day 5 Highlights",
+      "word_count": 403
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/video/newey-always-teaching-us-something-says-fernando-alonso.1855770496351042231",
+    "status": 200,
+    "data": {
+      "title": "Newey 'always teaching us something', says Fernando Alonso",
+      "word_count": 405
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/video",
+    "status": 200,
+    "data": {
+      "title": "F1 - The Official Home of Formula 1® Racing",
+      "word_count": 908
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/drivers",
+    "status": 200,
+    "data": {
+      "title": "F1 Drivers 2026 - Verstappen, Hamilton, Leclerc and more",
+      "word_count": 494
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/drivers/alexander-albon",
+    "status": 200,
+    "data": {
+      "title": "Alexander Albon - F1 Driver for Williams",
+      "word_count": 901
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/drivers/fernando-alonso",
+    "status": 200,
+    "data": {
+      "title": "Fernando Alonso - F1 Driver for Aston Martin",
+      "word_count": 906
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/drivers/kimi-antonelli",
+    "status": 200,
+    "data": {
+      "title": "Kimi Antonelli - F1 Driver for Mercedes",
+      "word_count": 973
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/drivers/oliver-bearman",
+    "status": 200,
+    "data": {
+      "title": "Oliver Bearman - F1 Driver for Haas",
+      "word_count": 870
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/drivers/gabriel-bortoleto",
+    "status": 200,
+    "data": {
+      "title": "Gabriel Bortoleto - F1 Driver for Audi",
+      "word_count": 904
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/drivers/valtteri-bottas",
+    "status": 200,
+    "data": {
+      "title": "Valtteri Bottas - F1 Driver for Cadillac",
+      "word_count": 976
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/drivers/franco-colapinto",
+    "status": 200,
+    "data": {
+      "title": "Franco Colapinto - F1 Driver for Alpine",
+      "word_count": 848
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/drivers/pierre-gasly",
+    "status": 200,
+    "data": {
+      "title": "Pierre Gasly - F1 Driver for Alpine",
+      "word_count": 958
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/drivers/isack-hadjar",
+    "status": 200,
+    "data": {
+      "title": "Isack Hadjar - F1 Driver for Red Bull Racing",
+      "word_count": 991
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/drivers/lewis-hamilton",
+    "status": 200,
+    "data": {
+      "title": "Lewis Hamilton - F1 Driver for Ferrari",
+      "word_count": 857
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/drivers/nico-hulkenberg",
+    "status": 200,
+    "data": {
+      "title": "Nico Hulkenberg - F1 Driver for Audi",
+      "word_count": 911
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/drivers/liam-lawson",
+    "status": 200,
+    "data": {
+      "title": "Liam Lawson - F1 Driver for Racing Bulls",
+      "word_count": 984
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/drivers/charles-leclerc",
+    "status": 200,
+    "data": {
+      "title": "Charles Leclerc - F1 Driver for Ferrari",
+      "word_count": 942
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/drivers/arvid-lindblad",
+    "status": 200,
+    "data": {
+      "title": "Arvid Lindblad - F1 Driver for Racing Bulls",
+      "word_count": 758
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/drivers/lando-norris",
+    "status": 200,
+    "data": {
+      "title": "Lando Norris - F1 Driver for McLaren",
+      "word_count": 885
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/drivers/esteban-ocon",
+    "status": 200,
+    "data": {
+      "title": "Esteban Ocon - F1 Driver for Haas",
+      "word_count": 942
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/drivers/sergio-perez",
+    "status": 200,
+    "data": {
+      "title": "Sergio Perez - F1 Driver for Cadillac",
+      "word_count": 825
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/drivers/oscar-piastri",
+    "status": 200,
+    "data": {
+      "title": "Oscar Piastri - F1 Driver for McLaren",
+      "word_count": 967
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/drivers/george-russell",
+    "status": 200,
+    "data": {
+      "title": "George Russell - F1 Driver for Mercedes",
+      "word_count": 1033
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/drivers/carlos-sainz",
+    "status": 200,
+    "data": {
+      "title": "Carlos Sainz - F1 Driver for Williams",
+      "word_count": 865
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/drivers/lance-stroll",
+    "status": 200,
+    "data": {
+      "title": "Lance Stroll - F1 Driver for Aston Martin",
+      "word_count": 890
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/drivers/max-verstappen",
+    "status": 200,
+    "data": {
+      "title": "Max Verstappen - F1 Driver for Red Bull Racing",
+      "word_count": 956
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/drivers/hall-of-fame",
+    "status": 200,
+    "data": {
+      "title": "Hall of Fame",
+      "word_count": 379
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/teams",
+    "status": 200,
+    "data": {
+      "title": "F1 Racing Teams 2026 - Ferrari, Mercedes, Red Bull and more",
+      "word_count": 407
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/teams/alpine",
+    "status": 200,
+    "data": {
+      "title": "Alpine – F1 Racing Team – Gasly, Colapinto",
+      "word_count": 812
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/teams/aston-martin",
+    "status": 200,
+    "data": {
+      "title": "Aston Martin – F1 Racing Team – Alonso, Stroll",
+      "word_count": 834
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/teams/audi",
+    "status": 200,
+    "data": {
+      "title": "Audi F1 Team – F1 Racing Team – Hulkenberg, Bortoleto",
+      "word_count": 828
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/teams/cadillac",
+    "status": 200,
+    "data": {
+      "title": "Cadillac – F1 Racing Team – Bottas, Perez",
+      "word_count": 772
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/teams/ferrari",
+    "status": 200,
+    "data": {
+      "title": "Ferrari – F1 Racing Team – Leclerc, Hamilton",
+      "word_count": 826
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/teams/haas",
+    "status": 200,
+    "data": {
+      "title": "Haas – F1 Racing Team – Ocon, Bearman",
+      "word_count": 790
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/teams/mclaren",
+    "status": 200,
+    "data": {
+      "title": "McLaren – F1 Racing Team – Norris, Piastri",
+      "word_count": 784
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/teams/mercedes",
+    "status": 200,
+    "data": {
+      "title": "Mercedes – F1 Racing Team – Russell, Antonelli",
+      "word_count": 868
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/teams/racing-bulls",
+    "status": 200,
+    "data": {
+      "title": "Racing Bulls – F1 Racing Team – Lawson, Lindblad",
+      "word_count": 848
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/teams/red-bull-racing",
+    "status": 200,
+    "data": {
+      "title": "Red Bull – F1 Racing Team – Verstappen, Hadjar",
+      "word_count": 840
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/teams/williams",
+    "status": 200,
+    "data": {
+      "title": "Williams – F1 Racing Team – Albon, Sainz",
+      "word_count": 825
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/page/gaming",
+    "status": 200,
+    "data": {
+      "title": "F1 Games - Experience F1 Fantasy and Other Video Games",
+      "word_count": 425
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.ea.com/en-gb/games/f1/f1-25",
+    "status": 200,
+    "data": {
+      "title": "F1® 25 Home - Electronic Arts",
+      "word_count": 1193
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://fantasy.formula1.com/en/?utm_source=web_formula1.com&utm_medium=internal_referral&utm_campaign=navigation",
+    "status": 200,
+    "data": {
+      "title": "F1 Fantasy Game",
+      "word_count": 21
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://f1esports.com/",
+    "status": 200,
+    "data": {
+      "title": "Formula 1® Sim Racing",
+      "word_count": 656
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://f1predict.formula1.com/",
+    "status": 200,
+    "data": {
+      "title": "F1 Predict – Make Your Formula 1 Predictions Now",
+      "word_count": 27
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/page/discover-unlocked",
+    "status": 200,
+    "data": {
+      "title": "Discover F1 Unlocked",
+      "word_count": 485
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.f1manager.com/",
+    "status": 200,
+    "data": {
+      "title": "F1® Manager 2024",
+      "word_count": 903
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/latest/article/we-can-be-proud-and-happy-krack-reflects-on-emotional-first-run-for-new.5WeSehmI6l5cK3EZDtwTu5",
+    "status": 200,
+    "data": {
+      "title": "‘We can be proud and happy’ – Mike Krack reflects on ‘emotional’ first run for new Aston Martin at Barcelona Shakedown",
+      "word_count": 1062
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.hutch.io/our-games/f1-clash/",
+    "status": 200,
+    "data": {
+      "title": "F1® Clash | Our Games",
+      "word_count": 691
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/latest/article/piastri-assesses-first-drive-in-2026-mclaren-as-he-voices-excitement-for-new.2uWlcJ3R9YEXn2oPY3BGiv",
+    "status": 200,
+    "data": {
+      "title": "Oscar Piastri assesses first drive in 2026 McLaren as he voices excitement for new season",
+      "word_count": 1123
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/video/hamilton-says-ferraris-winning-mentality-stronger-than-ever.1855767700588101973",
+    "status": 200,
+    "data": {
+      "title": "Hamilton says Ferrari’s 'winning mentality' stronger than ever",
+      "word_count": 405
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/video/lando-norris-on-his-key-takeaways-from-barcelona-shakedown.1855766926314622526",
+    "status": 200,
+    "data": {
+      "title": "Lando Norris on his key takeaways from Barcelona Shakedown",
+      "word_count": 407
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/video/verstappen-pleased-with-good-start-as-red-bull-hit-the-ground-running.1855766085594588792",
+    "status": 200,
+    "data": {
+      "title": "Verstappen pleased with 'good start' as Red Bull 'hit the ground running'",
+      "word_count": 413
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/video/houldey-reflects-on-mclarens-progress-after-barcelona-shakedown.1855766059738633393",
+    "status": 200,
+    "data": {
+      "title": "Houldey reflects on McLaren’s progress after Barcelona Shakedown",
+      "word_count": 405
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/latest/article/from-luminous-colours-and-camouflage-to-love-hearts-8-of-the-best-f1-testing.4Z5wkUwlDdsXKT2AntbZyk",
+    "status": 200,
+    "data": {
+      "title": "From luminous colours and camouflage to love hearts – 8 of the best F1 testing liveries",
+      "word_count": 1638
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/latest/article/its-unbelievable-norris-shares-surreal-feeling-as-he-runs-with-number-1-on.vaLsUzhGcr5YPaPXyHI5b",
+    "status": 200,
+    "data": {
+      "title": "‘It’s unbelievable’ – Lando Norris shares ‘surreal feeling’ as he runs with number 1 on his car for first time",
+      "word_count": 1198
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.fia.com/",
+    "status": 200,
+    "data": {
+      "title": "Federation Internationale de l'Automobile",
+      "word_count": 8164
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/latest/article/debrief-what-happened-on-day-4-of-the-barcelona-shakedown.5berFmNWepeT6IHLA1Chik",
+    "status": 200,
+    "data": {
+      "title": "DEBRIEF: What happened on Day 4 of the Barcelona Shakedown?",
+      "word_count": 2296
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/latest/article/driving-tomorrow-by-santander-stefano-domenicali-on-the-2026-rules-changes.2Ms03RYKvsvRHDLicXDchq",
+    "status": 200,
+    "data": {
+      "title": "Driving Tomorrow by Santander: Stefano Domenicali on the 2026 rules changes, new teams, new tracks, and the future of Formula 1",
+      "word_count": 1587
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/latest/article/vowles-says-williams-are-ready-to-take-part-in-bahrain-pre-season-testing.1SuqmIqjqZ2LlTAkjXzOIz",
+    "status": 200,
+    "data": {
+      "title": "James Vowles says Williams are ready to take part in Bahrain pre-season testing and car has passed crash tests",
+      "word_count": 1411
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/latest/article/everything-you-need-to-know-about-the-new-f1-rules-for-2026.48bv0VTxhIlhrQXmxercXk",
+    "status": 200,
+    "data": {
+      "title": "F1 2026 regulations: Everything you need to know about the new Formula 1 rules for 2026",
+      "word_count": 1713
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/video/f1-barcelona-shakedown-2026-day-4-highlights.1855686266669453292",
+    "status": 200,
+    "data": {
+      "title": "F1 Barcelona Shakedown 2026: Day 4 Highlights",
+      "word_count": 403
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/video/f1-barcelona-shakedown-2026-day-3-highlights.1855589482700614096",
+    "status": 200,
+    "data": {
+      "title": "F1 Barcelona Shakedown 2026: Day 3 Highlights",
+      "word_count": 403
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/video/f1-barcelona-shakedown-2026-day-2-highlights.1855500264634149945",
+    "status": 200,
+    "data": {
+      "title": "F1 Barcelona Shakedown 2026: Day 2 Highlights",
+      "word_count": 403
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/video/f1-barcelona-shakedown-2026-day-1-highlights.1855416000105152822",
+    "status": 200,
+    "data": {
+      "title": "F1 Barcelona Shakedown 2026: Day 1 Highlights",
+      "word_count": 403
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/video/race-highlights-2025-abu-dhabi-grand-prix.1850864782367296667",
+    "status": 200,
+    "data": {
+      "title": "Race Highlights: 2025 Abu Dhabi Grand Prix",
+      "word_count": 407
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://f1store.formula1.com/en/?_s=bm-fi-f1-prtsite-home-content-block-cta-230625-blw",
+    "status": 403,
+    "data": null,
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://tickets.formula1.com/",
+    "status": 200,
+    "data": {
+      "title": "F1® Ticket Store | Formula1.com",
+      "word_count": 677
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.formula1.com/en/information/formula-1-partners.2shz7bIVhGgS3ovP69N3Rs",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 Partners - Global Partners, Official Sponsors and Suppliers | Formula 1®",
+      "word_count": 4799
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.lvmh.com/en",
+    "status": 200,
+    "data": {
+      "title": "LVMH, world leader in high-quality products",
+      "word_count": 736
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://edigitalsurvey.com/survey/enter/s/ESV-fk48-430727333/j/752616908/environment/website",
+    "status": 200,
+    "data": {
+      "title": "Your feedback",
+      "word_count": 230
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://aws.amazon.com/f1/",
+    "status": 200,
+    "data": {
+      "title": "F1 Insights powered by AWS | Formula 1 uses AWS for Sports",
+      "word_count": 2211
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.saudiaramco.com/",
+    "status": 200,
+    "data": {
+      "title": "Where energy is opportunity  | Aramco",
+      "word_count": 575
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "http://bit.ly/2IjWDjE",
+    "status": 200,
+    "data": {
+      "title": "Pirelli Motorsport for Formula 1: products for circuit racing | Pirelli",
+      "word_count": 966
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.qatarairways.com/en/offers/f1-fans-flight-deals.html",
+    "status": 403,
+    "data": {
+      "title": "Access Denied",
+      "word_count": 17
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://inmotion.dhl/en/formula-1/?utm_content=DHL-F1&utm_source=f1&utm_medium=website&utm_campaign=DHL-F1",
+    "status": 200,
+    "data": {
+      "title": "Formula 1® delivered by DHL",
+      "word_count": 864
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.salesforce.com/campaign/formula1/?d=7013y000002RO1gAAG&utm_source=formula1&utm_medium=referral&utm_campaign=us_c360aw&utm_content=formula1-salesforce-logo_7013y000002RO1gAAG",
+    "status": 200,
+    "data": {
+      "title": "Agentforce will help Formula 1 speed up service response by 80%. | Salesforce",
+      "word_count": 2145
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.louisvuitton.com/",
+    "status": 403,
+    "data": {
+      "title": "LOUIS VUITTON",
+      "word_count": 33
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.tagheuer.com/f1.html",
+    "status": 200,
+    "data": {
+      "title": "Official Timekeeper of Formula 1®",
+      "word_count": 492
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.americanexpress.com/",
+    "status": 200,
+    "data": {
+      "title": "American Express Credit Cards, Rewards & Banking",
+      "word_count": 231
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.pepsico.com/",
+    "status": 403,
+    "data": {
+      "title": "No Title",
+      "word_count": 6
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.crypto.com",
+    "status": 200,
+    "data": {
+      "title": "Crypto.com International: Securely Buy, Sell and Trade Bitcoin, Ethereum and 400+ Crypto",
+      "word_count": 2166
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.sc.com/",
+    "status": 200,
+    "data": {
+      "title": "Standard Chartered Bank",
+      "word_count": 3
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.santander.com/",
+    "status": 200,
+    "data": {
+      "title": "Santander Corporate Website",
+      "word_count": 1175
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.globant.com/",
+    "status": 200,
+    "data": {
+      "title": "Globant AI Powerhouse | Meet AI Pods by Globant Enterprise AI",
+      "word_count": 1487
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.allwyn.com/",
+    "status": 200,
+    "data": {
+      "title": "Homepage || Allwyn",
+      "word_count": 652
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.pwc.com/us/en.html",
+    "status": 403,
+    "data": {
+      "title": "Access Denied",
+      "word_count": 17
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.nestle.com/brands/chocolate-confectionery/kitkat",
+    "status": 403,
+    "data": {
+      "title": "Verifying your browser…",
+      "word_count": 33
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.barillagroup.com/en/",
+    "status": 403,
+    "data": {
+      "title": "Attention Required! | Cloudflare",
+      "word_count": 127
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.visitlasvegas.com/",
+    "status": 200,
+    "data": {
+      "title": "Las Vegas Hotels, Shows, Things to Do, Restaurants, Guides & Maps",
+      "word_count": 1358
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.liqui-moly.com/",
+    "status": 200,
+    "data": {
+      "title": "Motor oils, additives and car care from LIQUI MOLY | LIQUI MOLY",
+      "word_count": 1448
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.paramountplus.com/",
+    "status": 200,
+    "data": {
+      "title": "Paramount+ - Stream live TV, Movies, Originals, News, and more",
+      "word_count": 196
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://go.puma.com/formula1-pp",
+    "status": 200,
+    "data": {
+      "title": "Motorsport | Racing Clothes & Driving Shoes | PUMA",
+      "word_count": 2757
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.tatacommunications.com/sports/powering-f1/",
+    "status": 200,
+    "data": {
+      "title": "Delivering Every Moment of F1Â® to Fans Worldwide",
+      "word_count": 2499
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.aggreko.com/en-gb/sectors/events",
+    "status": 200,
+    "data": {
+      "title": "Aggreko Event Services | Generators & Cooling Rentals | Aggreko UK",
+      "word_count": 752
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.arcosdorados.com/",
+    "status": 200,
+    "data": {
+      "title": "Arcos Dorados",
+      "word_count": 3664
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.t-mobile.com/benefits/las-vegas-grand-prix",
+    "status": 403,
+    "data": {
+      "title": "Access Denied",
+      "word_count": 17
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://apps.apple.com/gb/app/official-f1-app/id835022598",
+    "status": 200,
+    "data": {
+      "title": "‎Formula 1® App - App Store",
+      "word_count": 3505
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=com.softpauer.f1timingapp2014.basic&hl=en_GB",
+    "status": 200,
+    "data": {
+      "title": "Formula 1® – Apps on Google Play",
+      "word_count": 868
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.facebook.com/Formula1",
+    "status": 200,
+    "data": {
+      "title": "F1",
+      "word_count": 1
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://twitter.com/f1",
+    "status": "failed",
+    "data": null,
+    "error": "400, message='Got more than 8190 bytes (9774) when reading Header value is too long.', url='https://twitter.com/f1'",
+    "depth": 1
+  },
+  {
+    "url": "https://www.lenovo.com/",
+    "status": "failed",
+    "data": null,
+    "error": "timeout",
+    "depth": 1
+  },
+  {
+    "url": "http://www.msccruises.com",
+    "status": "failed",
+    "data": null,
+    "error": "timeout",
+    "depth": 1
+  },
+  {
+    "url": "https://www.instagram.com/f1/",
+    "status": 200,
+    "data": {
+      "title": "FORMULA 1® (@f1) • Instagram photos and videos",
+      "word_count": 8
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.youtube.com/F1",
+    "status": 200,
+    "data": {
+      "title": "FORMULA 1 - YouTube",
+      "word_count": 31
+    },
+    "error": null,
+    "depth": 1
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/f1-flags",
+    "status": 200,
+    "data": {
+      "title": "F1® Chequered Flag | Black and White F1® Flag | F1 Authentics",
+      "word_count": 3847
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/end-of-season-price-drop",
+    "status": 200,
+    "data": {
+      "title": "January Sale\n        \n        \n        \n            – F1 Authentics",
+      "word_count": 4351
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/all-products",
+    "status": 200,
+    "data": {
+      "title": "Shop Official F1® Memorabilia & Merch Online | F1 Authentics",
+      "word_count": 4511
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/account",
+    "status": 200,
+    "data": {
+      "title": "Account\n        \n        \n        \n            – F1 Authentics",
+      "word_count": 3481
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/pages/wishlist",
+    "status": 200,
+    "data": {
+      "title": "Wishlist\n        \n        \n        \n            – F1 Authentics",
+      "word_count": 3451
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/f1-gifts",
+    "status": 200,
+    "data": {
+      "title": "F1® Gifts & Memorabilia Collection | F1 Authentics",
+      "word_count": 4379
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/new-arrivals",
+    "status": 200,
+    "data": {
+      "title": "New Arrivals F1® Memorabilia & Replica Racewear | F1 Authentics",
+      "word_count": 3844
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/f1-racewear",
+    "status": 200,
+    "data": {
+      "title": "F1® Racewear | Signed Racewear | F1 Authentics",
+      "word_count": 3782
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/formula-1-car-parts",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 Car Parts & Memorabilia | F1 Authentics",
+      "word_count": 3968
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/all-f1%C2%AE-artwork",
+    "status": 200,
+    "data": {
+      "title": "All F1® Artwork\n        \n        \n        \n            – F1 Authentics",
+      "word_count": 3862
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/signed-photos",
+    "status": 200,
+    "data": {
+      "title": "Official F1® Signed Photos | F1 Memorabilia | F1 Authentics",
+      "word_count": 3818
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/f1-race-show-cars",
+    "status": 200,
+    "data": {
+      "title": "F1® Race Show Cars Collection | F1 Authentics",
+      "word_count": 4159
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/reengineered-f1-car-parts",
+    "status": 200,
+    "data": {
+      "title": "Re-engineered | F1® Car Parts | F1 Authentics",
+      "word_count": 4342
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/lando-norris",
+    "status": 200,
+    "data": {
+      "title": "Lando Norris F1® Memorabilia | F1 Authentics",
+      "word_count": 4062
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/max-verstappen",
+    "status": 200,
+    "data": {
+      "title": "Max Verstappen F1® Memorabilia, Merch & Gifts | F1 Authentics",
+      "word_count": 3911
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/oscar-piastri",
+    "status": 200,
+    "data": {
+      "title": "McLaren Oscar Piastri F1® Memorabilia | F1 Authentics",
+      "word_count": 3773
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/lewis-hamilton",
+    "status": 200,
+    "data": {
+      "title": "Official Lewis Hamilton F1® Memorabilia | F1 Authentics",
+      "word_count": 4076
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/carlos-sainz-jr",
+    "status": 200,
+    "data": {
+      "title": "Carlos Sainz F1® Memorabilia | F1 Authentics",
+      "word_count": 3624
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/policies/privacy-policy",
+    "status": 200,
+    "data": {
+      "title": "Privacy policy\n        \n        \n        \n            – F1 Authentics",
+      "word_count": 6967
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/policies/terms-of-service",
+    "status": 200,
+    "data": {
+      "title": "Terms of service\n        \n        \n        \n            – F1 Authentics",
+      "word_count": 9924
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/charles-leclerc",
+    "status": 200,
+    "data": {
+      "title": "Charles Leclerc F1® Memorabilia | F1 Authentics",
+      "word_count": 3589
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/yuki-tsunoda",
+    "status": 200,
+    "data": {
+      "title": "Yuki Tsunoda F1® Memorabilia | F1 Authentics",
+      "word_count": 3599
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/george-russell",
+    "status": 200,
+    "data": {
+      "title": "George Russell F1® Memorabilia | F1 Authentics",
+      "word_count": 3728
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/fernando-alonso",
+    "status": 200,
+    "data": {
+      "title": "Fernando Alonso F1® Memorabilia | F1 Authentics",
+      "word_count": 3779
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/andrea-kimi-antonelli",
+    "status": 200,
+    "data": {
+      "title": "Andrea Kimi Antonelli F1® Memorabilia\n        \n        \n        \n            – F1 Authentics",
+      "word_count": 3598
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/lance-stroll",
+    "status": 200,
+    "data": {
+      "title": "Lance Stroll F1® Memorabilia | F1 Authentics",
+      "word_count": 3780
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/pierre-gasly",
+    "status": 200,
+    "data": {
+      "title": "Pierre Gasly F1® Memorabilia | F1 Authentics",
+      "word_count": 3819
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/franco-colapinto",
+    "status": 200,
+    "data": {
+      "title": "Franco Colapinto F1® Memorabilia | Official F1 Authentics",
+      "word_count": 3639
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/esteban-ocon",
+    "status": 200,
+    "data": {
+      "title": "Esteban Ocon F1® Memorabilia | F1 Authentics",
+      "word_count": 3765
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/liam-lawson",
+    "status": 200,
+    "data": {
+      "title": "Liam Lawson F1® Memorabilia\n        \n        \n        \n            – F1 Authentics",
+      "word_count": 3566
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/oliver-bearman",
+    "status": 200,
+    "data": {
+      "title": "Oliver Bearman F1® Memorabilia\n        \n        \n        \n            – F1 Authentics",
+      "word_count": 3563
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/isaac-hadjar",
+    "status": 200,
+    "data": {
+      "title": "Isack Hadjar F1® Memorabilia\n        \n        \n        \n            – F1 Authentics",
+      "word_count": 3563
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/alex-albon",
+    "status": 200,
+    "data": {
+      "title": "Official Alex Albon F1® Memorabilia | F1 Authentics",
+      "word_count": 3685
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/nico-hulkenberg",
+    "status": 200,
+    "data": {
+      "title": "Official Nico Hülkenberg F1® Memorabilia | F1 Authentics",
+      "word_count": 3612
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/gabriel-bortoleto",
+    "status": 200,
+    "data": {
+      "title": "Gabriel Bortoleto F1® Memorabilia\n        \n        \n        \n            – F1 Authentics",
+      "word_count": 3641
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/ayrton-senna",
+    "status": 200,
+    "data": {
+      "title": "Ayrton Senna F1® Memorabilia | Replica Helmet | F1 Authentics",
+      "word_count": 3603
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/michael-schumacher",
+    "status": 200,
+    "data": {
+      "title": "Michael Schumacher F1® Memorabilia | | F1 Authentics",
+      "word_count": 3720
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/sebastian-vettel",
+    "status": 200,
+    "data": {
+      "title": "Sebastian Vettel F1® Memorabilia | F1 Authentics",
+      "word_count": 3832
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/mika-hakkinen",
+    "status": 200,
+    "data": {
+      "title": "Mika Häkkinen F1® Memorabilia & Bodywork | F1 Authentics",
+      "word_count": 3640
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/jenson-button",
+    "status": 200,
+    "data": {
+      "title": "Jenson Button F1® Memorabilia | F1 Authentics",
+      "word_count": 3601
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/mark-webber-f1%C2%AE-memorabilia",
+    "status": 200,
+    "data": {
+      "title": "Mark Webber F1® Memorabilia\n        \n        \n        \n            – F1 Authentics",
+      "word_count": 3732
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/kimi-raikkonen",
+    "status": 200,
+    "data": {
+      "title": "Kimi Räikkönen F1® Memorabilia | F1 Authentics",
+      "word_count": 3584
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/nico-rosberg",
+    "status": 200,
+    "data": {
+      "title": "Nico Rosberg F1® Memorabilia | F1 Authentic\n        \n        \n        \n            – F1 Authentics",
+      "word_count": 3662
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/daniel-ricciardo",
+    "status": 200,
+    "data": {
+      "title": "Daniel Ricciardo F1® Memorabilia | F1 Authentics",
+      "word_count": 3668
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/sergio-perez",
+    "status": 200,
+    "data": {
+      "title": "Sergio Pérez F1® Memorabilia | Race Used | F1 Authentics",
+      "word_count": 3674
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/valtteri-bottas",
+    "status": 200,
+    "data": {
+      "title": "Valtteri Bottas F1® Team Memorabilia & Gifts | F1 Authentics",
+      "word_count": 3659
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/zhou-guanyu",
+    "status": 200,
+    "data": {
+      "title": "Zhou Guanyu F1® Memorabilia | F1 Authentics",
+      "word_count": 3594
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/kevin-magnussen",
+    "status": 200,
+    "data": {
+      "title": "Kevin Magnussen F1® Memorabilia | F1 Authentics",
+      "word_count": 3565
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/jack-doohan",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/mick-schumacher",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/mclaren",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/scuderia-ferrari",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/logan-sargeant",
+    "status": 200,
+    "data": {
+      "title": "Logan Sargeant F1® Memorabilia | Official Replica | F1 Authentics",
+      "word_count": 3565
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/red-bull-racing",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/aston-martin-f1-team",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/mercedes-amg-petronas-formula-one-team",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/haas-f1-team",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/racing-bulls",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/alpine",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/pirelli",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/williams-racing",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/stake-f1-team-kick-sauber",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/f1-tables",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/skid-planks",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/bodywork-displays",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/bodywork-in-acrylic-display",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/desktop-bodywork",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/f1%C2%AE-race-used-car-parts",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/bodywork-and-photo",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/f1%C2%AE-replica-bodywork-displays",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/f1-helmets",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/1-1-scale-f1-helmets",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/f1-mini-helmets",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/signed-f1-helmets",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/amalgam-collection",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/wind-tunnel-tyres",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/helmet-display-cases",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/f1-halo-collection",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/f1%C2%AE-office-and-home",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/clocks",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/lamps",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/phone-tablet-holders",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/brake-pads",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/f1%C2%AE-gear-ratio-in-acrylic",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/fidget-spinners",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/wheel-nut",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/f1-memorabilia-display-cases",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/framed-photographs",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/f1-office-accessories",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/f1-balaclavas",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/f1-race-boots",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/f1-race-gloves",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/f1-race-suits",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/signed-f1-memorabilia",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/f1-helmets?filter.p.m.custom.signed=1",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/signed-f1-caps",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/signed-polos-and-shirts",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/f1%C2%AE-signed-racewear",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/wheel-rim-tables",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/break-disc-tables",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/f1%C2%AE-driveshaft-tables",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/f1%C2%AE-tyre-tables",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/f1-escooters-bikes",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/playseats",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/f1-simulators",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/art-photography",
+    "status": 200,
+    "data": {
+      "title": "F1® Art & Photography Collection | F1 Authentics",
+      "word_count": 4404
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/pages/f1-auction",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/pages/buyers-guide",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/auction-products?sort_by=title-ascending",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/account/register",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/sprint-auction?page=1&sort_by=title-ascending",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/pages/upcoming-auctions",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/auction-products",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/auction-products?filter.p.product_type=Helmet+1%3A1+Scale&filter.p.product_type=Helmet+1%3A2+Scale&filter.p.product_type=Race+Visor&filter.p.product_type=Race+Visors&filter.p.product_type=Visor",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/auction-products?filter.p.product_type=F1+Cars",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/auction-products?filter.p.product_type=F1+Car+Parts&filter.p.product_type=Nose+Cone+1%3A1+Scale&filter.p.product_type=Rear+Wing+Endplate&filter.p.product_type=Sidepod&filter.p.product_type=Sidepod+panel",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/auction-products?filter.p.product_type=Race+Suit&filter.p.product_type=Race+Suit+Race+Used",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/auction-products?filter.p.product_type=Nomex&filter.p.product_type=Race+Nomex",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/auction-products?filter.p.product_type=Race+Boots",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/auction-products?filter.p.product_type=Race+Gloves",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/charity-auctions-memorabilia-auction",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/auction-products?filter.p.product_type=Artwork&filter.p.product_type=Poster&filter.p.product_type=Signed+Photo&filter.p.product_type=Signed+Print",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/auction-products?filter.p.product_type=Signed+Cap&filter.p.product_type=Signed+Merchandise&filter.p.product_type=Signed+Photo&filter.p.product_type=Signed+Print",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/auction-products?filter.p.vendor=McLaren",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/auction-products?filter.p.vendor=Ferrari",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/auction-products?filter.p.vendor=F1&filter.p.vendor=Red+Bull",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/auction-products?filter.p.vendor=Mercedes",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/auction-products?filter.p.vendor=Alpine",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/auction-products?filter.p.vendor=Aston+Martin",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/auction-products?filter.p.vendor=Haas",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/auction-products?filter.p.vendor=Red+Bull",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/auction-products?filter.p.vendor=Williams",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/auction-products?filter.p.vendor=Kick+Sauber",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/auction-products?filter.p.vendor=F1",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/auction-products?filter.p.vendor=Alfa+Romeo&filter.p.vendor=Force+India&filter.p.vendor=Racing+Point&filter.p.vendor=Sahara+Force+India",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/pages/private-sales",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/pages/sell-with-us",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/pages/sellers-guide",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/acrylics",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/sprint-auction?sort_by=title-ascending",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/products/pirelli-2025-intermediate-compound-tyre-table",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/products/limited-edition-lando-norris-2025-driver-world-champion-framed-photo",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/products/aston-martin-f1-team-2021-nose-cone-table",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/products/sergio-perez-2021-race-used-wheel-rim-table-copy",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/products/pirelli-2025-hard-compound-tyre-table",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/collections/f1%C2%AE-2025-season",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/products/lando-norris-2025-mclaren-1-2-scale-helmet-miami-gp",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/products/max-verstappen-replica-2025-red-bull-racing-bodywork-in-acrylic",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/products/pierre-gasly-2025-signed-bwt-alpine-formula-one%C2%AE-team-cap",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/products/lewis-hamilton-2025-ferrari-framed-photo-brazilian-gp",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/products/oscar-piastri-2025-grand-prix-used-mclaren-mcl39-skid-plank-piece-in-acrylic",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/pages/affiliates",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/account/login?return_url=%2Faccount",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/pages/about-f1-authentics",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/pages/contact",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/pages/delivery-information",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/pages/returns-and-refunds",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/pages/how-to-authenticate-your-product",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.youtube.com/channel/UC1QDRPXYxh6Bzwc7S6k1V0w",
+    "status": 200,
+    "data": {
+      "title": "F1 Authentics - YouTube",
+      "word_count": 31
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.instagram.com/f1authentics/",
+    "status": 200,
+    "data": {
+      "title": "F1 Authentics® (@f1authentics) • Instagram photos and videos",
+      "word_count": 8
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://wkf.ms/3ZOIiV9",
+    "status": "failed",
+    "data": null,
+    "error": "400, message='Got more than 8190 bytes (10068) when reading Header value is too long.', url='https://forms.monday.com/forms/50254974503789cf971f08bcc9dc4dcc?r=euc1'",
+    "depth": 2
+  },
+  {
+    "url": "https://forms.monday.com/forms/6559923ec8eb6010d93e976dc2c524e5?r=euc1",
+    "status": "failed",
+    "data": null,
+    "error": "400, message='Got more than 8190 bytes (8873) when reading Header value is too long.', url='https://forms.monday.com/forms/6559923ec8eb6010d93e976dc2c524e5?r=euc1'",
+    "depth": 2
+  },
+  {
+    "url": "https://www.facebook.com/p/F1-Authentics-100086362278805/?locale=en_GB",
+    "status": 200,
+    "data": {
+      "title": "F1 Authentics",
+      "word_count": 2
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://browsehappy.com/",
+    "status": 200,
+    "data": {
+      "title": "Browse Happy",
+      "word_count": 233
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/h-hospitality",
+    "status": 200,
+    "data": {
+      "title": "Formula 1® Hospitality",
+      "word_count": 634
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/login",
+    "status": 200,
+    "data": {
+      "title": "Login",
+      "word_count": 181
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://mementoexclusives.com/",
+    "status": 200,
+    "data": {
+      "title": "Memento Exclusives - Own The Moment | Memento Exclusives",
+      "word_count": 734
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/se-special-edition-hospitality",
+    "status": 200,
+    "data": {
+      "title": "F1® Special Edition Hospitality passes | Formula1.com",
+      "word_count": 383
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/pc-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™ ¦ Formula 1® Hospitality",
+      "word_count": 560
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/ah-additional-hospitality",
+    "status": 200,
+    "data": {
+      "title": "Additional F1® Hospitality | Formula1.com",
+      "word_count": 362
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/ah-57317-additional-hosp-pre",
+    "status": 200,
+    "data": {
+      "title": "No Title",
+      "word_count": 250
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/ah-3159-australia-additional-hospitality",
+    "status": 200,
+    "data": {
+      "title": "Australia F1® Hospitality | Formula1.com",
+      "word_count": 309
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/se-3182-f1-special-edition-china",
+    "status": 200,
+    "data": {
+      "title": "F1® Special Edition Hospitality passes - China | Formula1.com",
+      "word_count": 306
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/pc-3176-bahrain-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  In Bahrain¦ Formula 1® 2023 Hospitality",
+      "word_count": 798
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/pc-3309-japan-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  In Japan¦ Formula 1® 2023 Hospitality",
+      "word_count": 788
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/pc-54298-saudi-arabia-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  In Jeddah¦ Formula 1® 2023 Hospitality",
+      "word_count": 785
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/pc-3215-canada-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  In Canada¦ Formula 1® 2023 Hospitality",
+      "word_count": 770
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/pc-3202-monaco-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  In Monaco¦ Formula 1® 2023 Hospitality",
+      "word_count": 751
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/pc-3190-spain-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  In Spain¦ Formula 1® Hospitality",
+      "word_count": 860
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/ah-54987-miami-additional-hospitality",
+    "status": 200,
+    "data": {
+      "title": "F1® Miami Tickets | Formula1.com",
+      "word_count": 536
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/pc-3222-austria-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  In Austria¦ Formula 1® Hospitality",
+      "word_count": 801
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/pc-3226-great-britain-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  In Silverstone¦ Formula 1® 2023 Hospitality",
+      "word_count": 745
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/pc-3286-belgium-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  In Belgium¦ Formula 1® 2023 Hospitality",
+      "word_count": 848
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/pc-3277-hungary-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  In Hungary¦ Formula 1® 2023 Hospitality",
+      "word_count": 755
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/pc-42837-netherlands-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  In Zandvoort¦ Formula 1® 2023 Hospitality",
+      "word_count": 733
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/pc-3293-italy-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "Italy F1 Paddock Club™ Passes | Formula1.com",
+      "word_count": 735
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/pc-10851-azerbaijan-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  In Azerbaijan¦ Formula 1® 2023 Hospitality",
+      "word_count": 802
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/pc-77449-paddock-club-madrid",
+    "status": 200,
+    "data": {
+      "title": "No Title",
+      "word_count": 844
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/ah-3301-singapore-additional-hospitality",
+    "status": 200,
+    "data": {
+      "title": "Singapore F1® Hospitality | Formula1.com",
+      "word_count": 337
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/se-4861-f1-special-edition-mexico",
+    "status": 200,
+    "data": {
+      "title": "F1® Special Edition Hospitality passes - Mexico | Formula1.com",
+      "word_count": 318
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/pc-3320-united-states-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  In Austin¦ Formula 1® 2023 Hospitality",
+      "word_count": 711
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/pc-3325-brazil-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  In Brazil¦ Formula 1® 2023 Hospitality",
+      "word_count": 728
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/se-59007-f1-special-edition-las-vegas",
+    "status": 200,
+    "data": {
+      "title": "F1® Special Edition Hospitality passes - Las Vegas | Formula1.com",
+      "word_count": 316
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/pc-56257-qatar-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  In Qatar¦ Formula 1® 2023 Hospitality",
+      "word_count": 719
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/se-3312-f1-special-edition-abu-dhabi",
+    "status": 200,
+    "data": {
+      "title": "F1® Special Edition Hospitality passes - Abu Dhabi | Formula1.com",
+      "word_count": 314
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/t-121-hospitality-faq",
+    "status": 200,
+    "data": {
+      "title": "F1® Hospitality - Frequently Asked Questions | Formula1.com",
+      "word_count": 2342
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/login?fromHospitality=1",
+    "status": 200,
+    "data": {
+      "title": "Login",
+      "word_count": 184
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/t-91-hospitality-contact-us",
+    "status": 200,
+    "data": {
+      "title": "Contact us - F1® Hospitality | Formula1.com",
+      "word_count": 275
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/it/h-formula1-hospitality",
+    "status": 200,
+    "data": {
+      "title": "Ospitalità Formula 1®",
+      "word_count": 652
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/fr/h-formula1-hospitality",
+    "status": 200,
+    "data": {
+      "title": "Hospitalité de la  Formula 1®",
+      "word_count": 659
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/h-formula1-hospitality",
+    "status": 200,
+    "data": {
+      "title": "Formula 1® Hospitalidad",
+      "word_count": 678
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en.html?utm_source=f1tickets&utm_medium=Masthead&utm_campaign=sub_brand_clicks|https://www.formula1.com/en.html?utm_source=f1tickets&utm_medium=Masthead&utm_campaign=sub_brand_clicks",
+    "status": 200,
+    "data": {
+      "title": "F1 - The Official Home of Formula 1® Racing",
+      "word_count": 786
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/de/h-formula1-hospitality",
+    "status": 200,
+    "data": {
+      "title": "Formula 1® Hospitality",
+      "word_count": 643
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/nl/h-formula1-hospitality",
+    "status": 200,
+    "data": {
+      "title": "Formula 1® Gastvrijheid",
+      "word_count": 627
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1authentics.com/?utm_source=f1tickets&utm_medium=Masthead&utm_campaign=sub_brand_clicks|https://www.f1authentics.com/?utm_source=f1tickets&utm_medium=Masthead&utm_campaign=sub_brand_clicks",
+    "status": 429,
+    "data": {
+      "title": "Verifying your connection...",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.fiaformula2.com/?utm_source=f1tickets&utm_medium=Masthead&utm_campaign=sub_brand_clicks|https://www.fiaformula2.com/?utm_source=f1tickets&utm_medium=Masthead&utm_campaign=sub_brand_clicks",
+    "status": 200,
+    "data": {
+      "title": "Home - Formula 2",
+      "word_count": 383
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.fiaformula3.com/?utm_source=f1tickets&utm_medium=Masthead&utm_campaign=sub_brand_clicks|https://www.fiaformula3.com/?utm_source=f1tickets&utm_medium=Masthead&utm_campaign=sub_brand_clicks",
+    "status": 200,
+    "data": {
+      "title": "Home - Formula 3",
+      "word_count": 384
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1store2.formula1.com/en/?_s=bm-fi-f1-prtsite-F1Hospitality-230720-jm",
+    "status": 403,
+    "data": null,
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en",
+    "status": 200,
+    "data": {
+      "title": "F1® Ticket Store | Formula1.com",
+      "word_count": 680
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1tv.formula1.com/",
+    "status": 200,
+    "data": {
+      "title": "F1 TV",
+      "word_count": 25
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/calendar-of-events?utm_source=tickets.formula1.com&utm_medium=partner_referral&utm_campaign=f1tickets_navigation",
+    "status": 200,
+    "data": {
+      "title": "Calendar of Events | F1 Experiences",
+      "word_count": 939
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/ah-57317-additional-hosp-pre",
+    "status": 200,
+    "data": {
+      "title": "No Title",
+      "word_count": 258
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/se-3182-f1-special-edition-china",
+    "status": 200,
+    "data": {
+      "title": "F1® Special Edition Hospitality pases - China | Formula1.com",
+      "word_count": 327
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/pc-3182-china-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "Pases para China F1 Paddock Club™ | Formula1.com",
+      "word_count": 886
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/ah-3182-china-hospitalidad-adicional",
+    "status": 200,
+    "data": {
+      "title": "Hospitalidad - F1® China | Formula1.com",
+      "word_count": 348
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/pc-3309-japon-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  En Japón¦ Formula 1® 2023 Hospitalidad",
+      "word_count": 871
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/ah-3309-japon-hospitalidad-adicional",
+    "status": 200,
+    "data": {
+      "title": "Hospitalidad - F1® Japon | Formula1.com",
+      "word_count": 325
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/pc-3176-bahrein-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  En Bahréin¦ Formula 1® 2023 Hospitalidad",
+      "word_count": 875
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/ah-3176-bahrein-hospitalidad-adicional",
+    "status": 200,
+    "data": {
+      "title": "Hospitalidad - F1® Bahrein | Formula1.com",
+      "word_count": 329
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/pc-54298-arabia-saudita-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  En Jeddah¦ Formula 1® 2023 Hospitalidad",
+      "word_count": 860
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/pc-3215-canada-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  En Canadá¦ Formula 1® 2023 Hospitalidad",
+      "word_count": 828
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/ah-54298-arabia-saudita-hospitalidad-adicional",
+    "status": 200,
+    "data": {
+      "title": "F1® Saudi Arabia Tickets | Formula1.com",
+      "word_count": 573
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/ah-54987-miami-hospitalidad-adicional",
+    "status": 200,
+    "data": {
+      "title": "F1® Miami Tickets | Formula1.com",
+      "word_count": 550
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/pc-3202-monaco-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  En Mónaco¦ Formula 1® 2023 Hospitalidad",
+      "word_count": 840
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/ah-3215-canada-hospitalidad-adicional",
+    "status": 200,
+    "data": {
+      "title": "Hospitalidad - F1® Canada | Formula1.com",
+      "word_count": 380
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/pc-3190-pc-spain",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  En España¦ Formula 1® Hospitalidad",
+      "word_count": 905
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/ah-3202-monaco-hospitalidad-adicional",
+    "status": 200,
+    "data": {
+      "title": "Hospitalidad - F1® Monaco | Formula1.com",
+      "word_count": 358
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/ah-3190-espana-hospitalidad-adicional",
+    "status": 200,
+    "data": {
+      "title": "Hospitalidad - F1® España | Formula1.com",
+      "word_count": 364
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/pc-3222-austria-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  En Austria¦ Formula 1® Hospitalidad",
+      "word_count": 877
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/pc-3226-gran-bretana-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  En Silverstone¦ Formula 1® 2023 Hospitalidad",
+      "word_count": 818
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/ah-3222-austria-hospitalidad-adicional",
+    "status": 200,
+    "data": {
+      "title": "Hospitalidad - F1® Austria | Formula1.com",
+      "word_count": 327
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/ah-3226-gran-bretana-hospitalidad-adicional",
+    "status": 200,
+    "data": {
+      "title": "Hospitalidad - F1® Gran Bretaña | Formula1.com",
+      "word_count": 356
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/pc-3286-belgica-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  En Bélgica¦ Formula 1® 2023 Hospitalidad",
+      "word_count": 927
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/pc-3277-hungria-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  En Hungría¦ Formula 1® 2023 Hospitalidad",
+      "word_count": 816
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/ah-3286-belgica-hospitalidad-adicional",
+    "status": 200,
+    "data": {
+      "title": "Hospitalidad - F1® Bélgica | Formula1.com",
+      "word_count": 333
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/ah-3277-hungria-hospitalidad-adicional",
+    "status": 200,
+    "data": {
+      "title": "Hospitalidad - F1® Hungria | Formula1.com",
+      "word_count": 330
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/pc-42837-paises-bajos-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  En Zandvoort¦ Formula 1® 2023 Hospitalidad",
+      "word_count": 817
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/ah-42837-a-hospitality",
+    "status": 200,
+    "data": {
+      "title": "No Title",
+      "word_count": 264
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/pc-3293-italia-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "Pases de Italia F1 Paddock Club ™ | Formula1.com",
+      "word_count": 811
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/ah-3293-italia-hospitalidad-adicional",
+    "status": 200,
+    "data": {
+      "title": "Hospitalidad - F1® Italia | Formula1.com",
+      "word_count": 364
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/pc-77449-paddock-club-madrid",
+    "status": 200,
+    "data": {
+      "title": "No Title",
+      "word_count": 909
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/pc-10851-azerbaiyan-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  En Azerbaijan¦ Formula 1® 2023 Hospitalidad",
+      "word_count": 846
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/pc-3320-estados-unidos-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  En Austin¦ Formula 1® 2023 Hospitalidad",
+      "word_count": 785
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/ah-10851-azerbaiyan-hospitalidad-adicional",
+    "status": 200,
+    "data": {
+      "title": "Hospitalidad - F1® Azerbaiyan | Formula1.com",
+      "word_count": 329
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/ah-3301-singapur-hospitalidad-adicional",
+    "status": 200,
+    "data": {
+      "title": "Hospitalidad - F1® Singapur | Formula1.com",
+      "word_count": 365
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/se-4861-f1-special-edition-mexico",
+    "status": 200,
+    "data": {
+      "title": "F1® Special Edition Hospitality pases - México | Formula1.com",
+      "word_count": 329
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/ah-3320-estados-unidos-hospitalidad-adicional",
+    "status": 200,
+    "data": {
+      "title": "Hospitalidad - F1® Estados Unidos | Formula1.com",
+      "word_count": 324
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/pc-4861-mexico-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  En México¦ Formula 1® Hospitalidad",
+      "word_count": 819
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/pc-3325-brasil-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  En Brasil¦ Formula 1® 2023 Hospitalidad",
+      "word_count": 789
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/ah-4861-mexico-hospitalidad-adicional",
+    "status": 200,
+    "data": {
+      "title": "Hospitalidad - F1® México | Formula1.com",
+      "word_count": 345
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/ah-3325-brasil-hospitalidad-adicional",
+    "status": 200,
+    "data": {
+      "title": "Hospitalidad - F1® Brasil | Formula1.com",
+      "word_count": 339
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/se-59007-f1-special-edition-las-vegas",
+    "status": 200,
+    "data": {
+      "title": "F1® Special Edition Hospitality pases - Las Vegas | Formula1.com",
+      "word_count": 324
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/pc-56257-qatar-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  En Qatar¦ Formula 1® 2023 Hospitalidad",
+      "word_count": 792
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/pc-59007-vegas-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "No Title",
+      "word_count": 335
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/se-3312-f1-special-edition-abu-dhabi",
+    "status": 200,
+    "data": {
+      "title": "F1® Special Edition Hospitality pases - Abu Dhabi | Formula1.com",
+      "word_count": 325
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es/pc-3312-abu-dhabi-paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™  En Abu Dhabi¦ Formula 1® 2023 Hospitalidad",
+      "word_count": 822
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/?utm_source=tickets.formula1.com&utm_medium=partner_referral&utm_campaign=f1tickets",
+    "status": 200,
+    "data": {
+      "title": "F1 Official Ticket & Travel Packages | F1 Experiences",
+      "word_count": 737
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://itunes.apple.com/gb/app/official-f1-app/id835022598?mt=8",
+    "status": 200,
+    "data": {
+      "title": "‎Formula 1® App - App Store",
+      "word_count": 3505
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/?utm_source=tickets.formula1.com&utm_medium=partner_referral&utm_campaign=f1tickets_footer",
+    "status": 200,
+    "data": {
+      "title": "F1 Official Ticket & Travel Packages | F1 Experiences",
+      "word_count": 737
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/t-61-terms-and-conditions",
+    "status": 200,
+    "data": {
+      "title": "F1® Tickets - Terms & Conditions | Formula1.com",
+      "word_count": 14105
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/t-141-privacy-policy",
+    "status": 200,
+    "data": {
+      "title": "F1® Tickets - Privacy Policy | Formula1.com",
+      "word_count": 5104
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/t-161-cookie-policy",
+    "status": 200,
+    "data": {
+      "title": "F1® Tickets - Cookies Policy | Formula1.com",
+      "word_count": 1059
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.fiaformula3.com/",
+    "status": 200,
+    "data": {
+      "title": "Home - Formula 3",
+      "word_count": 384
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.fiaformula2.com/",
+    "status": 200,
+    "data": {
+      "title": "Home - Formula 2",
+      "word_count": 383
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.f1academy.com",
+    "status": 200,
+    "data": {
+      "title": "F1 ACADEMY™ - The Official Home of  F1 ACADEMY™",
+      "word_count": 451
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1store2.formula1.com/",
+    "status": 403,
+    "data": null,
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/4281-formula-one-paddock-club-tickets/",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club™ ¦ Formula 1® Hospitality",
+      "word_count": 563
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "http://www.pg-mc.com/",
+    "status": 200,
+    "data": {
+      "title": "Powerful ticketing software and web marketing | Platinium Group",
+      "word_count": 260
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/",
+    "status": 200,
+    "data": {
+      "title": "F1 Official Ticket & Travel Packages | F1 Experiences",
+      "word_count": 737
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/calendar-of-events",
+    "status": 200,
+    "data": {
+      "title": "Calendar of Events | F1 Experiences",
+      "word_count": 939
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/f1-ticket-hotel",
+    "status": 200,
+    "data": {
+      "title": "Official F1 Ticket + Accommodation Options | F1 Experiences",
+      "word_count": 497
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/corporate-hospitality",
+    "status": 200,
+    "data": {
+      "title": "F1 Corporate Hospitality | F1 Experiences",
+      "word_count": 667
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/about-us",
+    "status": 200,
+    "data": {
+      "title": "About Us | F1 Experiences",
+      "word_count": 1504
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/about-us/faqs",
+    "status": 200,
+    "data": {
+      "title": "Frequently Asked Questions | F1 Experiences",
+      "word_count": 1592
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/blog",
+    "status": 200,
+    "data": {
+      "title": "F1 Experiences",
+      "word_count": 283
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/hospitality",
+    "status": 200,
+    "data": {
+      "title": "Official F1 Hospitality Ticket Packages | F1 Experiences",
+      "word_count": 540
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/hotels-circuit-transfers",
+    "status": 200,
+    "data": {
+      "title": "Hotels & Circuit Transfers | F1 Experiences",
+      "word_count": 611
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/reseller-program",
+    "status": 200,
+    "data": {
+      "title": "Reseller Program | F1 Experiences",
+      "word_count": 425
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/paddock-club",
+    "status": 200,
+    "data": {
+      "title": "F1 Paddock Club | F1 Experiences",
+      "word_count": 953
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/contact-us",
+    "status": 200,
+    "data": {
+      "title": "Contact Us | F1 Experiences",
+      "word_count": 386
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/customer",
+    "status": 200,
+    "data": {
+      "title": "F1 Experiences",
+      "word_count": 296
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/f1-garage",
+    "status": 200,
+    "data": {
+      "title": "F1 Garage Hospitality | F1 Experiences",
+      "word_count": 882
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/rising-stars",
+    "status": 200,
+    "data": {
+      "title": "Rising Stars | F1 Experiences",
+      "word_count": 711
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/2026-australian-grand-prix",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 Australian Grand Prix 2026 Tickets | F1 Experiences",
+      "word_count": 523
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/2026-japanese-grand-prix",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 Japanese Grand Prix 2026 Tickets | F1 Experiences",
+      "word_count": 650
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/2026-chinese-grand-prix",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 Chinese Grand Prix 2026 Tickets | F1 Experiences",
+      "word_count": 623
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/2026-saudi-arabian-grand-prix",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 Saudi Arabian Grand Prix 2026 Tickets | F1 Experiences",
+      "word_count": 669
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/2026-bahrain-grand-prix",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 Bahrain Grand Prix 2026 Tickets | F1 Experiences",
+      "word_count": 612
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/2026-miami-grand-prix",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 Miami Grand Prix 2026 Tickets | F1 Experiences",
+      "word_count": 690
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/2026-barcelona-grand-prix",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 Barcelona Grand Prix 2026 Tickets | F1 Experiences",
+      "word_count": 827
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/2026-canadian-grand-prix",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 Canadian Grand Prix 2026 Tickets | F1 Experiences",
+      "word_count": 765
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/2026-austrian-grand-prix",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 Austrian Grand Prix 2026 Tickets | F1 Experiences",
+      "word_count": 682
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/2026-belgian-grand-prix",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 Belgian Grand Prix 2026 Tickets | F1 Experiences",
+      "word_count": 961
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/2026-monaco-grand-prix",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 Monaco Grand Prix 2026 Tickets | F1 Experiences",
+      "word_count": 1420
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/2026-british-grand-prix",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 British Grand Prix 2026 Tickets | F1 Experiences",
+      "word_count": 1017
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/2026-dutch-grand-prix",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 Dutch Grand Prix 2026 Tickets | F1 Experiences",
+      "word_count": 647
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/2026-hungarian-grand-prix",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 Hungarian Grand Prix 2026 Tickets | F1 Experiences",
+      "word_count": 865
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/2026-spanish-grand-prix",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 Spanish Grand Prix 2026 Tickets | F1 Experiences",
+      "word_count": 723
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/2026-italian-grand-prix",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 Italian Grand Prix 2026 Tickets | F1 Experiences",
+      "word_count": 908
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/2026-azerbaijan-grand-prix",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 Azerbaijan Grand Prix 2026 Tickets | F1 Experiences",
+      "word_count": 765
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/2026-singapore-grand-prix",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 Singapore Grand Prix 2026 Tickets | F1 Experiences",
+      "word_count": 562
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/2026-united-states-grand-prix",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 United States Grand Prix 2026 Tickets | F1 Experiences",
+      "word_count": 974
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/2026-mexico-city-grand-prix",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 Mexico City Grand Prix 2026 Tickets | F1 Experiences",
+      "word_count": 1128
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/2026-las-vegas-grand-prix",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 Las Vegas Grand Prix 2026 Tickets | F1 Experiences",
+      "word_count": 556
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/2026-abu-dhabi-grand-prix",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 Abu Dhabi Grand Prix 2026 Tickets | F1 Experiences",
+      "word_count": 618
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/2026-brazilian-grand-prix",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 São Paulo Grand Prix 2026 Tickets | F1 Experiences",
+      "word_count": 961
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/champions-club",
+    "status": 200,
+    "data": {
+      "title": "Champions Club | F1 Experiences",
+      "word_count": 863
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/f1-experiences-live",
+    "status": 200,
+    "data": {
+      "title": "F1 Experiences Live Event Access | F1 Experiences",
+      "word_count": 799
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/2026-qatar-grand-prix",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 Qatar Grand Prix 2026 Tickets | F1 Experiences",
+      "word_count": 829
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/alpine-f1-team-packages",
+    "status": 200,
+    "data": {
+      "title": "Alpine Formula One Team Ticket Packages | F1 Experiences",
+      "word_count": 540
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/haas-f1-team-packages",
+    "status": 200,
+    "data": {
+      "title": "Haas F1® Team Access | F1 Experiences",
+      "word_count": 912
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/red-bull-team-packages",
+    "status": 200,
+    "data": {
+      "title": "Red Bull Racing Packages | F1 Experiences",
+      "word_count": 686
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/stake-f1-team-packages",
+    "status": 200,
+    "data": {
+      "title": "F1 Team Sauber Ticket Packages | F1 Experiences",
+      "word_count": 547
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/authorized-sales-agents",
+    "status": 200,
+    "data": {
+      "title": "Authorised Sales Agents | F1 Experiences",
+      "word_count": 477
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.instagram.com/f1experiences/",
+    "status": 200,
+    "data": {
+      "title": "F1 Experiences (@f1experiences) • Instagram photos and videos",
+      "word_count": 8
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.youtube.com/c/f1experiencesf1/videos",
+    "status": 200,
+    "data": {
+      "title": "F1 Experiences - YouTube",
+      "word_count": 31
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/cookies-policy",
+    "status": 200,
+    "data": {
+      "title": "Cookies Policy | F1 Experiences",
+      "word_count": 1333
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/privacy-policy",
+    "status": 200,
+    "data": {
+      "title": "Privacy Statement | F1 Experiences",
+      "word_count": 4702
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/legal-notices",
+    "status": 200,
+    "data": {
+      "title": "Legal Notices | F1 Experiences",
+      "word_count": 3409
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.facebook.com/F1Experiences/",
+    "status": 200,
+    "data": {
+      "title": "F1 Experiences | Charlotte NC",
+      "word_count": 5
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com",
+    "status": 200,
+    "data": {
+      "title": "F1 - The Official Home of Formula 1® Racing",
+      "word_count": 786
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en-lk/subscribe-to-f1-tv",
+    "status": 200,
+    "data": {
+      "title": "Stream Formula 1 live | F1 TV",
+      "word_count": 865
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1help.formula1.com/?language=en_US",
+    "status": 200,
+    "data": {
+      "title": "No Title",
+      "word_count": 0
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2026/japan",
+    "status": 200,
+    "data": {
+      "title": "Japanese Grand Prix 2026 - F1 Race",
+      "word_count": 961
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://fantasy.formula1.com",
+    "status": 200,
+    "data": {
+      "title": "F1 Fantasy Game",
+      "word_count": 21
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2026/bahrain",
+    "status": 200,
+    "data": {
+      "title": "Bahrain Grand Prix 2026 - F1 Race",
+      "word_count": 979
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://support.formula1.com/s/article/2023-Location-Availability",
+    "status": 200,
+    "data": {
+      "title": "No Title",
+      "word_count": 0
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2026/saudi-arabia",
+    "status": 200,
+    "data": {
+      "title": "Saudi Arabian Grand Prix 2026 - F1 Race",
+      "word_count": 931
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2026/monaco",
+    "status": 200,
+    "data": {
+      "title": "Monaco Grand Prix 2026 - F1 Race",
+      "word_count": 908
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2026/miami",
+    "status": 200,
+    "data": {
+      "title": "Miami Grand Prix 2026 - F1 Race",
+      "word_count": 970
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2026/barcelona-catalunya",
+    "status": 200,
+    "data": {
+      "title": "Barcelona-Catalunya Grand Prix 2026 - F1 Race",
+      "word_count": 751
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2026/canada",
+    "status": 200,
+    "data": {
+      "title": "Canadian Grand Prix 2026 - F1 Race",
+      "word_count": 874
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2026/austria",
+    "status": 200,
+    "data": {
+      "title": "Austrian Grand Prix 2026 - F1 Race",
+      "word_count": 907
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2026/hungary",
+    "status": 200,
+    "data": {
+      "title": "Hungarian Grand Prix 2026 - F1 Race",
+      "word_count": 875
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2026/great-britain",
+    "status": 200,
+    "data": {
+      "title": "British Grand Prix 2026 - F1 Race",
+      "word_count": 882
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2026/belgium",
+    "status": 200,
+    "data": {
+      "title": "Belgian Grand Prix 2026 - F1 Race",
+      "word_count": 934
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2026/netherlands",
+    "status": 200,
+    "data": {
+      "title": "Dutch Grand Prix 2026 - F1 Race",
+      "word_count": 974
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2026/spain",
+    "status": 200,
+    "data": {
+      "title": "Spanish Grand Prix 2026 - F1 Race",
+      "word_count": 833
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2026/italy",
+    "status": 200,
+    "data": {
+      "title": "Italian Grand Prix 2026 - F1 Race",
+      "word_count": 918
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2026/azerbaijan",
+    "status": 200,
+    "data": {
+      "title": "Azerbaijan Grand Prix 2026 - F1 Race",
+      "word_count": 956
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2026/singapore",
+    "status": 200,
+    "data": {
+      "title": "Singapore Grand Prix 2026 - F1 Race",
+      "word_count": 922
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2026/mexico",
+    "status": 200,
+    "data": {
+      "title": "Mexico City Grand Prix 2026 - F1 Race",
+      "word_count": 921
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2026/united-states",
+    "status": 200,
+    "data": {
+      "title": "United States Grand Prix 2026 - F1 Race",
+      "word_count": 907
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2026/qatar",
+    "status": 200,
+    "data": {
+      "title": "Qatar Grand Prix 2026 - F1 Race",
+      "word_count": 858
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2026/brazil",
+    "status": 200,
+    "data": {
+      "title": "Sao Paulo Grand Prix 2026, Brazil - F1 Race",
+      "word_count": 937
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2026/las-vegas",
+    "status": 200,
+    "data": {
+      "title": "Las Vegas Grand Prix 2026 - F1 Race",
+      "word_count": 883
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2025",
+    "status": 200,
+    "data": {
+      "title": "F1 Schedule 2025 - Official Calendar of Grand Prix Races",
+      "word_count": 1205
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/racing/2026/united-arab-emirates",
+    "status": 200,
+    "data": {
+      "title": "Abu Dhabi Grand Prix 2026 - F1 Race",
+      "word_count": 965
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/f1-3182-china",
+    "status": 200,
+    "data": {
+      "title": "F1® China Tickets | Formula1.com",
+      "word_count": 631
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/f1-57317-bahrain-preseason-testing",
+    "status": 200,
+    "data": {
+      "title": "F1® Bahrain Pre-Season Testing Tickets | Formula1.com",
+      "word_count": 651
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/f1-3159-australia",
+    "status": 200,
+    "data": {
+      "title": "F1® Australia Tickets | Formula1.com",
+      "word_count": 627
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/f1-3309-japan",
+    "status": 200,
+    "data": {
+      "title": "F1® Japan Tickets | Formula1.com",
+      "word_count": 598
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/f1-3176-bahrain",
+    "status": 200,
+    "data": {
+      "title": "F1® Bahrain Tickets | Formula1.com",
+      "word_count": 581
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/f1-54298-saudi-arabia",
+    "status": 200,
+    "data": {
+      "title": "F1® Saudi Arabia Tickets | Formula1.com",
+      "word_count": 568
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/f1-54987-miami",
+    "status": 200,
+    "data": {
+      "title": "F1® Miami Tickets | Formula1.com",
+      "word_count": 542
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/f1-3215-canada",
+    "status": 200,
+    "data": {
+      "title": "F1® Canada Tickets | Formula1.com",
+      "word_count": 525
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/f1-3202-monaco",
+    "status": 200,
+    "data": {
+      "title": "F1® Monaco Tickets | Formula1.com",
+      "word_count": 507
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/f1-3190-spain",
+    "status": 200,
+    "data": {
+      "title": "F1® Spain Tickets | Formula1.com",
+      "word_count": 490
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/f1-3226-great-britain",
+    "status": 200,
+    "data": {
+      "title": "F1® Great Britain Tickets | Formula1.com",
+      "word_count": 459
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/f1-3222-austria",
+    "status": 200,
+    "data": {
+      "title": "F1® Austria Tickets | Formula1.com",
+      "word_count": 471
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/f1-42837-netherlands",
+    "status": 200,
+    "data": {
+      "title": "Queue-it",
+      "word_count": 263
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/f1-3286-belgium",
+    "status": 200,
+    "data": {
+      "title": "Queue-it",
+      "word_count": 263
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/f1-3277-hungary",
+    "status": 200,
+    "data": {
+      "title": "Queue-it",
+      "word_count": 263
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/f1-77449-madrid-spain-gp",
+    "status": 200,
+    "data": {
+      "title": "Queue-it",
+      "word_count": 263
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/f1-3301-singapore",
+    "status": 200,
+    "data": {
+      "title": "Queue-it",
+      "word_count": 263
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/f1-10851-azerbaijan",
+    "status": 200,
+    "data": {
+      "title": "Queue-it",
+      "word_count": 263
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/f1-3320-united-states",
+    "status": 200,
+    "data": {
+      "title": "Queue-it",
+      "word_count": 263
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/f1-4861-mexico",
+    "status": 200,
+    "data": {
+      "title": "Queue-it",
+      "word_count": 263
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/f1-3325-brazil",
+    "status": 200,
+    "data": {
+      "title": "Queue-it",
+      "word_count": 263
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/f1-56257-qatar",
+    "status": 200,
+    "data": {
+      "title": "Queue-it",
+      "word_count": 263
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/f1-3312-abu-dhabi",
+    "status": 200,
+    "data": {
+      "title": "F1® Abu Dhabi Tickets | Formula1.com",
+      "word_count": 238
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/f1-59007-las-vegas",
+    "status": 200,
+    "data": {
+      "title": "F1® Las Vegas Tickets | Formula1.com",
+      "word_count": 260
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/f1-3293-italy",
+    "status": 200,
+    "data": {
+      "title": "F1® Italy Tickets | Formula1.com",
+      "word_count": 387
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/t-111-faq",
+    "status": 200,
+    "data": {
+      "title": "F1® Tickets - Frequently Asked Questions - Tickets | Formula1.com",
+      "word_count": 3394
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/en/t-101-contact-us",
+    "status": 200,
+    "data": {
+      "title": "F1® Tickets - Contact us | Formula1.com",
+      "word_count": 251
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/fr",
+    "status": 200,
+    "data": {
+      "title": "Billets Formule 1®  | Formula.com",
+      "word_count": 702
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/es",
+    "status": 200,
+    "data": {
+      "title": "Fórmula 1® Entradas | Formula1.com",
+      "word_count": 688
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/it",
+    "status": 200,
+    "data": {
+      "title": "Biglietti Formula 1®  | Formula1.com",
+      "word_count": 730
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/de",
+    "status": 200,
+    "data": {
+      "title": "Formula 1® Tickets | Formula1.com",
+      "word_count": 704
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://tickets.formula1.com/nl",
+    "status": 200,
+    "data": {
+      "title": "Formule 1® Tickets | Formula1.com",
+      "word_count": 681
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1store2.formula1.com/en/?_s=bm-fi-f1-prtsite-F1Tickets-230720-jm",
+    "status": 403,
+    "data": null,
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftickets.formula1.com%2Fen",
+    "status": 200,
+    "data": {
+      "title": "Facebook",
+      "word_count": 19
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Ftickets.formula1.com%2Fen",
+    "status": 200,
+    "data": {
+      "title": "LinkedIn Login, Sign in | LinkedIn",
+      "word_count": 207
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "http://f1tv.formula1.com/",
+    "status": 200,
+    "data": {
+      "title": "F1 TV",
+      "word_count": 25
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/calendar-of-events?utm_source=tickets.formula1.com&utm_medium=partner_referral&utm_campaign=f1tickets_home",
+    "status": 200,
+    "data": {
+      "title": "Calendar of Events | F1 Experiences",
+      "word_count": 939
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://twitter.com/share?ref_src=twsrc%5Etfw",
+    "status": "failed",
+    "data": null,
+    "error": "400, message='Got more than 8190 bytes (9774) when reading Header value is too long.', url='https://twitter.com/share?ref_src=twsrc%5Etfw'",
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/2024-bahrain-grand-prix?utm_source=formula1.com&utm_medium=partner_referral&utm_campaign=formula1_bahrain24",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 Bahrain Grand Prix 2026 Tickets | F1 Experiences",
+      "word_count": 612
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Q8mRAjFGr4Q",
+    "status": 200,
+    "data": {
+      "title": "F1 Classic Onboard: Bahrain Grand Prix 2004, Alonso v Webber - YouTube",
+      "word_count": 39
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=sTH87phrwEs",
+    "status": 200,
+    "data": {
+      "title": "Rosberg v Hamilton, 2014 Bahrain Grand Prix | F1 Classic Onboard - YouTube",
+      "word_count": 40
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/video/were-going-in-the-right-direction-bortoleto-on-final-stint-of-barcelona-shakedown.1855752671182978029",
+    "status": 200,
+    "data": {
+      "title": "'We're going in the right direction' - Bortoleto on final stint of Barcelona Shakedown",
+      "word_count": 417
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/video/emotional-binotto-comments-on-audis-official-first-outing-in-f1.1855748292444585211",
+    "status": 200,
+    "data": {
+      "title": "'Emotional' Binotto comments on Audi's official first outing in F1",
+      "word_count": 409
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/video/nice-to-get-out-in-the-dry-hamilton-on-first-long-dry-run-in-the-sf-26.1855665780489117726",
+    "status": 200,
+    "data": {
+      "title": "'Nice to get out in the dry' - Hamilton on first long dry run in the SF-26",
+      "word_count": 423
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/video/mario-isola-reports-positive-results-from-initial-shakedown-tests.1855662309144817101",
+    "status": 200,
+    "data": {
+      "title": "Mario Isola reports 'positive' results from initial Shakedown tests",
+      "word_count": 407
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/video/all-on-target-so-far-steve-nielson-on-alpines-barcelona-shakedown.1855748177483398228",
+    "status": 200,
+    "data": {
+      "title": "'All on target so far' - Steve Nielson on Alpine's Barcelona Shakedown",
+      "word_count": 413
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/latest/article/the-best-social-media-from-day-4-of-the-barcelona-shakedown.2yxPtcH1rc0Syn8Zg5psit",
+    "status": 200,
+    "data": {
+      "title": "The best social media from Day 4 of the Barcelona Shakedown",
+      "word_count": 616
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/latest/tags/testing.4t1ItwHvTqCYCAcsqGgGQg",
+    "status": 200,
+    "data": {
+      "title": "Testing News and Videos | Formula 1",
+      "word_count": 466
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/information/f1-broadcast-information.45y3LNsT1D6VoK0ZmX8ciJ",
+    "status": 200,
+    "data": {
+      "title": "F1 Broadcast Information | Formula 1®",
+      "word_count": 697
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/video/the-cooldown-room-chloe-chambers-takes-on-the-real-constructors-championship-f1-tv.1827662045277778727",
+    "status": 200,
+    "data": {
+      "title": "The Cooldown Room: Chloe Chambers takes on the real constructors' championship | F1 TV",
+      "word_count": 395
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/video/radio-rewind-2025-chinese-grand-prix.1827486844051122591",
+    "status": 200,
+    "data": {
+      "title": "Radio Rewind: 2025 Chinese Grand Prix",
+      "word_count": 387
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/video/2025-chinese-grand-prix-best-race-start-onboards.1827476300322664089",
+    "status": 200,
+    "data": {
+      "title": "2025 Chinese Grand Prix: Best race start onboards",
+      "word_count": 391
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/video/dhl-fastest-pit-stop-2025-chinese-grand-prix.1827487493409090954",
+    "status": 200,
+    "data": {
+      "title": "DHL Fastest Pit Stop - 2025 Chinese Grand Prix",
+      "word_count": 393
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://f1experiences.com/2024-chinese-grand-prix?utm_source=formula1.com&utm_medium=partner_referral&utm_campaign=formula1_china24",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 Chinese Grand Prix 2026 Tickets | F1 Experiences",
+      "word_count": 623
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/video/exactly-the-kind-of-result-we-wanted-piastri-pleased-for-the-team-with-a-mclaren-one-two-in-china.1827376542729047440",
+    "status": 200,
+    "data": {
+      "title": "‘Exactly the kind of result we wanted’ –  Piastri pleased for the team with a McLaren one-two in China.",
+      "word_count": 413
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/video/norris-i-really-wouldve-loved-to-have-had-brakes.1827376963257206567",
+    "status": 200,
+    "data": {
+      "title": "Norris: ‘I really would’ve loved to have had brakes’",
+      "word_count": 393
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/latest/tags/china.1xgJeOZfeMgGK0m0MiccCA",
+    "status": 200,
+    "data": {
+      "title": "China News and Videos | Formula 1",
+      "word_count": 583
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/latest/article/formula-1-announces-annual-promoter-awards-winners.5pWJ7w5QG1CSNaUQhmGOX7",
+    "status": 200,
+    "data": {
+      "title": "Formula 1 announces annual Promoter Awards winners",
+      "word_count": 1213
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/video/dhl-fastest-lap-award-2025-chinese-grand-prix.1827392564923073626",
+    "status": 200,
+    "data": {
+      "title": "DHL Fastest Lap Award – 2025 Chinese Grand Prix",
+      "word_count": 393
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/latest/article/tickets-on-sale-for-2026-chinese-grand-prix.16kNj72XNtyBQ4cMsgzAJz",
+    "status": 200,
+    "data": {
+      "title": "Tickets on sale for 2026 Formula 1 Chinese Grand Prix in Shanghai",
+      "word_count": 682
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/latest/article/wolff-hails-russell-as-one-of-absolute-top-three-drivers-in-f1-after-10-out.n19TFP2xQ9uRBMKRBL9uR",
+    "status": 200,
+    "data": {
+      "title": "Toto Wolff hails George Russell as one of 'absolute top three' drivers in F1 after '10 out of 10' performance in China | Formula 1®",
+      "word_count": 1068
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/latest/article/from-infamous-title-deciders-to-home-race-heartbreaks-7-of-the-most-dramatic.3gUysRekRcxhLJ1MgzvFDZ",
+    "status": 200,
+    "data": {
+      "title": "From infamous title deciders to home race heartbreaks – 7 of the most dramatic disqualifications in F1 history | Formula 1®",
+      "word_count": 2151
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/latest/article/hinchcliffe-mercedes-took-a-huge-gamble-on-18-year-old-rookie-antonelli-but.1zSHCzpcWn61EZ8cTqd2kc",
+    "status": 200,
+    "data": {
+      "title": "HINCHCLIFFE: Mercedes took a huge gamble on 18-year-old rookie Kimi Antonelli – but he already looks like the real deal | Formula 1®",
+      "word_count": 541
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2024/races",
+    "status": 200,
+    "data": {
+      "title": "2024 RACE RESULTS",
+      "word_count": 870
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/latest/article/bortoleto-not-proud-of-lap-1-spin-in-china-as-hulkenberg-rues-impact-of.6EqmdQSX5mRISQx4qEm1gf",
+    "status": 200,
+    "data": {
+      "title": "Gabriel Bortoleto ‘not proud’ of Lap 1 spin in China as Nico Hulkenberg rues impact of early damage on ‘very tricky’ day | Formula 1®",
+      "word_count": 1059
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2023/races",
+    "status": 200,
+    "data": {
+      "title": "2023 RACE RESULTS",
+      "word_count": 877
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2022/races",
+    "status": 200,
+    "data": {
+      "title": "2022 RACE RESULTS",
+      "word_count": 835
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2021/races",
+    "status": 200,
+    "data": {
+      "title": "2021 RACE RESULTS",
+      "word_count": 813
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2020/races",
+    "status": 200,
+    "data": {
+      "title": "2020 RACE RESULTS",
+      "word_count": 698
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2018/races",
+    "status": 200,
+    "data": {
+      "title": "2018 RACE RESULTS",
+      "word_count": 777
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2019/races",
+    "status": 200,
+    "data": {
+      "title": "2019 RACE RESULTS",
+      "word_count": 770
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2017/races",
+    "status": 200,
+    "data": {
+      "title": "2017 RACE RESULTS",
+      "word_count": 760
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2016/races",
+    "status": 200,
+    "data": {
+      "title": "2016 RACE RESULTS",
+      "word_count": 770
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2015/races",
+    "status": 200,
+    "data": {
+      "title": "2015 RACE RESULTS",
+      "word_count": 739
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2014/races",
+    "status": 200,
+    "data": {
+      "title": "2014 RACE RESULTS",
+      "word_count": 739
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2013/races",
+    "status": 200,
+    "data": {
+      "title": "2013 RACE RESULTS",
+      "word_count": 776
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2011/races",
+    "status": 200,
+    "data": {
+      "title": "2011 RACE RESULTS",
+      "word_count": 770
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2010/races",
+    "status": 200,
+    "data": {
+      "title": "2010 RACE RESULTS",
+      "word_count": 742
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2012/races",
+    "status": 200,
+    "data": {
+      "title": "2012 RACE RESULTS",
+      "word_count": 784
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2009/races",
+    "status": 200,
+    "data": {
+      "title": "2009 RACE RESULTS",
+      "word_count": 706
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2008/races",
+    "status": 200,
+    "data": {
+      "title": "2008 RACE RESULTS",
+      "word_count": 708
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2006/races",
+    "status": 200,
+    "data": {
+      "title": "2006 RACE RESULTS",
+      "word_count": 707
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2007/races",
+    "status": 200,
+    "data": {
+      "title": "2007 RACE RESULTS",
+      "word_count": 699
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2005/races",
+    "status": 200,
+    "data": {
+      "title": "2005 RACE RESULTS",
+      "word_count": 741
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2004/races",
+    "status": 200,
+    "data": {
+      "title": "2004 RACE RESULTS",
+      "word_count": 715
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2002/races",
+    "status": 200,
+    "data": {
+      "title": "2002 RACE RESULTS",
+      "word_count": 692
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2003/races",
+    "status": 200,
+    "data": {
+      "title": "2003 RACE RESULTS",
+      "word_count": 686
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2001/races",
+    "status": 200,
+    "data": {
+      "title": "2001 RACE RESULTS",
+      "word_count": 699
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/2000/races",
+    "status": 200,
+    "data": {
+      "title": "2000 RACE RESULTS",
+      "word_count": 697
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1998/races",
+    "status": 200,
+    "data": {
+      "title": "1998 RACE RESULTS",
+      "word_count": 685
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1997/races",
+    "status": 200,
+    "data": {
+      "title": "1997 RACE RESULTS",
+      "word_count": 693
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1999/races",
+    "status": 200,
+    "data": {
+      "title": "1999 RACE RESULTS",
+      "word_count": 678
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1996/races",
+    "status": 200,
+    "data": {
+      "title": "1996 RACE RESULTS",
+      "word_count": 688
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1995/races",
+    "status": 200,
+    "data": {
+      "title": "1995 RACE RESULTS",
+      "word_count": 698
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1993/races",
+    "status": 200,
+    "data": {
+      "title": "1993 RACE RESULTS",
+      "word_count": 688
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1994/races",
+    "status": 200,
+    "data": {
+      "title": "1994 RACE RESULTS",
+      "word_count": 681
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1992/races",
+    "status": 200,
+    "data": {
+      "title": "1992 RACE RESULTS",
+      "word_count": 689
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1991/races",
+    "status": 200,
+    "data": {
+      "title": "1991 RACE RESULTS",
+      "word_count": 690
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1989/races",
+    "status": 200,
+    "data": {
+      "title": "1989 RACE RESULTS",
+      "word_count": 695
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1990/races",
+    "status": 200,
+    "data": {
+      "title": "1990 RACE RESULTS",
+      "word_count": 690
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1988/races",
+    "status": 200,
+    "data": {
+      "title": "1988 RACE RESULTS",
+      "word_count": 695
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1987/races",
+    "status": 200,
+    "data": {
+      "title": "1987 RACE RESULTS",
+      "word_count": 688
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1985/races",
+    "status": 200,
+    "data": {
+      "title": "1985 RACE RESULTS",
+      "word_count": 696
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1986/races",
+    "status": 200,
+    "data": {
+      "title": "1986 RACE RESULTS",
+      "word_count": 691
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1984/races",
+    "status": 200,
+    "data": {
+      "title": "1984 RACE RESULTS",
+      "word_count": 697
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1983/races",
+    "status": 200,
+    "data": {
+      "title": "1983 RACE RESULTS",
+      "word_count": 677
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1982/races",
+    "status": 200,
+    "data": {
+      "title": "1982 RACE RESULTS",
+      "word_count": 704
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1981/races",
+    "status": 200,
+    "data": {
+      "title": "1981 RACE RESULTS",
+      "word_count": 676
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1980/races",
+    "status": 200,
+    "data": {
+      "title": "1980 RACE RESULTS",
+      "word_count": 661
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1978/races",
+    "status": 200,
+    "data": {
+      "title": "1978 RACE RESULTS",
+      "word_count": 695
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1979/races",
+    "status": 200,
+    "data": {
+      "title": "1979 RACE RESULTS",
+      "word_count": 674
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1977/races",
+    "status": 200,
+    "data": {
+      "title": "1977 RACE RESULTS",
+      "word_count": 720
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1976/races",
+    "status": 200,
+    "data": {
+      "title": "1976 RACE RESULTS",
+      "word_count": 692
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1974/races",
+    "status": 200,
+    "data": {
+      "title": "1974 RACE RESULTS",
+      "word_count": 670
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1975/races",
+    "status": 200,
+    "data": {
+      "title": "1975 RACE RESULTS",
+      "word_count": 650
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1972/races",
+    "status": 200,
+    "data": {
+      "title": "1972 RACE RESULTS",
+      "word_count": 619
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1971/races",
+    "status": 200,
+    "data": {
+      "title": "1971 RACE RESULTS",
+      "word_count": 609
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1973/races",
+    "status": 200,
+    "data": {
+      "title": "1973 RACE RESULTS",
+      "word_count": 673
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1970/races",
+    "status": 200,
+    "data": {
+      "title": "1970 RACE RESULTS",
+      "word_count": 634
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1968/races",
+    "status": 200,
+    "data": {
+      "title": "1968 RACE RESULTS",
+      "word_count": 621
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1966/races",
+    "status": 200,
+    "data": {
+      "title": "1966 RACE RESULTS",
+      "word_count": 564
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1967/races",
+    "status": 200,
+    "data": {
+      "title": "1967 RACE RESULTS",
+      "word_count": 604
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1969/races",
+    "status": 200,
+    "data": {
+      "title": "1969 RACE RESULTS",
+      "word_count": 605
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1965/races",
+    "status": 200,
+    "data": {
+      "title": "1965 RACE RESULTS",
+      "word_count": 584
+    },
+    "error": null,
+    "depth": 2
+  },
+  {
+    "url": "https://www.formula1.com/en/results/1964/races",
+    "status": 200,
+    "data": {
+      "title": "1964 RACE RESULTS",
+      "word_count": 579
+    },
+    "error": null,
+    "depth": 2
+  }
+]
