@@ -40,10 +40,10 @@ def extract_colors():
         b = color.rgb.b
         rgb_colors.append((r, g, b))
 
-    # Removing background colors
-    rgb_colors.remove((245, 243, 238)) # Shade of White
-    rgb_colors.remove((246, 242, 244)) # Shade of white
-    rgb_colors.remove((240, 245, 241)) # Shade of white
+    # Removing background colors safely
+    for bg_color in [(245, 243, 238), (246, 242, 244), (240, 245, 241)]:
+        if bg_color in rgb_colors:
+            rgb_colors.remove(bg_color)
 
     return rgb_colors
 

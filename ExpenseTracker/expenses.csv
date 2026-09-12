@@ -1,2 +1,3 @@
 date,amount,category,description
-2026-01-16,2500.0,Lunch,Had a lunch
+2026-01-16,{2500.0},Lunch,Had a lunch
+2026-09-12,{23.0},meth,had fun

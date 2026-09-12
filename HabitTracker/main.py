@@ -1,10 +1,36 @@
+import os
+import time
+import socket
 import requests
 from datetime import datetime
-import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+# Force IPv4 in WSL to prevent DNS name resolution timeouts
+orig_getaddrinfo = socket.getaddrinfo
+def getaddrinfo_ipv4(host, port, family=0, type=0, proto=0, flags=0):
+    try:
+        return orig_getaddrinfo(host, port, socket.AF_INET, type, proto, flags)
+    except socket.gaierror:
+        time.sleep(0.5)
+        return orig_getaddrinfo(host, port, socket.AF_INET, type, proto, flags)
+socket.getaddrinfo = getaddrinfo_ipv4
 
 PIXELA_ENDPOINT = "https://pixe.la/v1/users"
-USERNAME = "shanelperera"
-TOKEN = os.environ["PIXELA_TOKEN"]
+USERNAME = os.environ.get("PIXELA_USERNAME", "shanelperera")
+TOKEN = os.environ.get("PIXELA_TOKEN")
+
+if not TOKEN:
+    print("\n❌ Error: PIXELA_TOKEN is not set.")
+    print("Please add your token to HabitTracker/.env:")
+    print("  PIXELA_TOKEN=your_token_here")
+    exit(1)
+
+HEADERS = {
+    "X-USER-TOKEN": TOKEN,
+    "User-Agent": "Mozilla/5.0"
+}
 
 def main():
     print("\n" * 26)
@@ -66,7 +92,7 @@ def create_account():
     while True:
         try:
             # Creating Pixela account
-            response = requests.post(url=PIXELA_ENDPOINT, json=user_params)
+            response = requests.post(url=PIXELA_ENDPOINT, json=user_params, timeout=10)
             response.raise_for_status()
 
             # Success message
@@ -116,12 +142,10 @@ def create_habit():
                 "color": color
             }
 
-            headers = {
-                "X-USER-TOKEN": TOKEN
-            }
+            headers = HEADERS
 
             # Creating the graph
-            response = requests.post(url=graph_endpoint, json=graph_config, headers=headers)
+            response = requests.post(url=graph_endpoint, json=graph_config, headers=headers, timeout=10)
             response.raise_for_status()
 
             print("Graph created successfully!")
@@ -177,12 +201,10 @@ def add_data(graph_id):
                 "quantity": quantity
             }
 
-            headers = {
-                "X-USER-TOKEN": TOKEN
-            }
+            headers = HEADERS
 
             # Adding data
-            response = requests.post(url=pixel_creation_endpoint, json=pixel_data, headers=headers)
+            response = requests.post(url=pixel_creation_endpoint, json=pixel_data, headers=headers, timeout=10)
             response.raise_for_status()
 
             print("Data added successfully!")
@@ -235,12 +257,10 @@ def update_data(graph_id):
                 "quantity": quantity
             }
 
-            headers = {
-                "X-USER-TOKEN": TOKEN
-            }
+            headers = HEADERS
 
             # Updating data
-            response = requests.put(url=update_pixel_endpoint, json=updated_pixel_data, headers=headers)
+            response = requests.put(url=update_pixel_endpoint, json=updated_pixel_data, headers=headers, timeout=10)
             response.raise_for_status()
 
             print("Data updated successfully!")
@@ -284,12 +304,10 @@ def delete_data(graph_id):
 
             delete_pixel_endpoint = f"{pixel_creation_endpoint}/{date}"
 
-            headers = {
-                "X-USER-TOKEN": TOKEN
-            }
+            headers = HEADERS
 
             # Deleting data
-            response = requests.delete(url=delete_pixel_endpoint, headers=headers)
+            response = requests.delete(url=delete_pixel_endpoint, headers=headers, timeout=10)
             response.raise_for_status()
 
             print("Data deleted successfully!")
@@ -329,12 +347,10 @@ def view_graphs():
 
     while True:
         try:
-            headers = {
-                "X-USER-TOKEN": TOKEN
-            }
+            headers = HEADERS
 
             # Fetching graphs
-            response = requests.get(url=graph_endpoint, headers=headers)
+            response = requests.get(url=graph_endpoint, headers=headers, timeout=10)
             response.raise_for_status()
 
             graphs = response.json()  # Parsing response as JSON
@@ -368,12 +384,10 @@ def view_graphs():
 def select_graph():
     graph_endpoint = f"{PIXELA_ENDPOINT}/{USERNAME}/graphs"
 
-    headers = {
-        "X-USER-TOKEN": TOKEN
-    }
+    headers = HEADERS
 
     # Fetching the list of graphs
-    response = requests.get(url=graph_endpoint, headers=headers)
+    response = requests.get(url=graph_endpoint, headers=headers, timeout=10)
     response.raise_for_status()
     graphs = response.json()
 

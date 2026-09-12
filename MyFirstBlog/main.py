@@ -16,8 +16,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-MAIL_ADDRESS = os.environ["MY_TEST_EMAIL"]
-MAIL_APP_PW = os.environ["EMAIL_SENDER_PASSWORD"]
+MAIL_ADDRESS = os.environ.get("MY_TEST_EMAIL")
+MAIL_APP_PW = os.environ.get("EMAIL_SENDER_PASSWORD")
 
 '''
 Make sure the required packages are installed: 
@@ -34,7 +34,7 @@ This will install the packages from the requirements.txt for this project.
 
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = os.environ["FLASK_APP_SECRET_KEY"]
+app.config['SECRET_KEY'] = os.environ.get("FLASK_APP_SECRET_KEY", "dev-secret-key-12345")
 ckeditor = CKEditor(app)
 Bootstrap5(app)
 
@@ -61,7 +61,7 @@ gravatar = Gravatar(app,
 # CREATE DATABASE
 class Base(DeclarativeBase):
     pass
-app.config['SQLALCHEMY_DATABASE_URI'] = os.environ["DB_URI"]
+app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get("DB_URI", "sqlite:///posts.db")
 db = SQLAlchemy(model_class=Base)
 db.init_app(app)
 

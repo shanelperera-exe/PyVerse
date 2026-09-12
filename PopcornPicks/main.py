@@ -17,7 +17,7 @@ TV_DB_SEARCH_URL = "https://api.themoviedb.org/3/search/tv"
 MOVIE_DB_INFO_URL = "https://api.themoviedb.org/3/movie"
 TV_DB_INFO_URL = "https://api.themoviedb.org/3/tv"
 MOVIE_DB_IMAGE_URL = "https://image.tmdb.org/t/p/w500"
-MOVIE_DB_API_KEY = environ["MOVIE_DB_API_KEY"]
+MOVIE_DB_API_KEY = environ.get("MOVIE_DB_API_KEY", "")
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = '8BYkEfBA6O6donzWlSihBXox7C0sKR6b'
@@ -198,13 +198,15 @@ def search_movie(title):
     response = requests.get(MOVIE_DB_SEARCH_URL, params={"api_key": MOVIE_DB_API_KEY, "query": title})
     data = response.json()
     results = []
-    for movie in data["results"]:
+    for movie in data.get("results", []):
+        release_date = movie.get("release_date") or ""
+        year = release_date.split("-")[0] if "-" in release_date else (release_date or "N/A")
         results.append({
-            "id": movie["id"],
-            "title": movie["title"],
-            "year": movie["release_date"].split("-")[0],
-            "overview": movie["overview"],
-            "poster_path": f"{MOVIE_DB_IMAGE_URL}{movie['poster_path']}" if movie["poster_path"] else None
+            "id": movie.get("id"),
+            "title": movie.get("title"),
+            "year": year,
+            "overview": movie.get("overview", ""),
+            "poster_path": f"{MOVIE_DB_IMAGE_URL}{movie['poster_path']}" if movie.get("poster_path") else None
         })
     return results
 
@@ -212,13 +214,15 @@ def search_tv_show(title):
     response = requests.get(TV_DB_SEARCH_URL, params={"api_key": MOVIE_DB_API_KEY, "query": title})
     data = response.json()
     results = []
-    for show in data["results"]:
+    for show in data.get("results", []):
+        first_air = show.get("first_air_date") or ""
+        year = first_air.split("-")[0] if "-" in first_air else (first_air or "N/A")
         results.append({
-            "id": show["id"],
-            "title": show["name"],
-            "year": show["first_air_date"].split("-")[0],
-            "overview": show["overview"],
-            "poster_path": f"{MOVIE_DB_IMAGE_URL}{show['poster_path']}" if show["poster_path"] else None
+            "id": show.get("id"),
+            "title": show.get("name"),
+            "year": year,
+            "overview": show.get("overview", ""),
+            "poster_path": f"{MOVIE_DB_IMAGE_URL}{show['poster_path']}" if show.get("poster_path") else None
         })
     return results
 

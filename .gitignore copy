@@ -1,0 +1,18 @@
+# Ignore Python virtual environments
+venv/
+.venv/
+env/
+
+# Ignore Anaconda environments
+.conda/
+.ipynb_checkpoints/
+
+# Ignore large data files
+*.csv
+*.h5
+*.pickle
+*.pkl
+*.parquet
+
+# Ignore Jupyter notebook metadata
+.ipynb_checkpoints/

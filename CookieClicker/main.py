@@ -1,5 +1,9 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.chrome.service import Service
+import os
 import time
 
 GAME_TIME_LIMIT = 5  # in minutes
@@ -8,26 +12,43 @@ UPGRADES_INTERVAL = 5  # in seconds
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_experimental_option("detach", True)
 
-driver = webdriver.Chrome(options=chrome_options)
+# Use existing cached Chrome and ChromeDriver binaries
+CHROME_BIN = "/home/shanelperera/.cache/selenium/chrome/linux64/152.0.7977.82/chrome"
+DRIVER_BIN = "/home/shanelperera/.cache/selenium/chromedriver/linux64/152.0.7977.82/chromedriver"
+
+if os.path.exists(CHROME_BIN):
+    chrome_options.binary_location = CHROME_BIN
+
+service = Service(executable_path=DRIVER_BIN) if os.path.exists(DRIVER_BIN) else None
+driver = webdriver.Chrome(service=service, options=chrome_options) if service else webdriver.Chrome(options=chrome_options)
+
 driver.get(url="https://orteil.dashnet.org/experiments/cookie/")
 
-cookie = driver.find_element(By.ID, value="cookie")
+# Wait for the cookie element to become available
+cookie = WebDriverWait(driver, 15).until(
+    EC.presence_of_element_located((By.ID, "cookie"))
+)
+
+from selenium.common.exceptions import NoSuchWindowException, WebDriverException
 
 def main():
     start_time = time.time()
     last_upgrade_time = start_time
-    while True:
-        cookie.click()
-        current_time = time.time()
-        if current_time - last_upgrade_time >= UPGRADES_INTERVAL:
-            choose_upgrade()
-            last_upgrade_time = current_time
-        if current_time - start_time > (GAME_TIME_LIMIT * 60):
-            break
+    try:
+        while True:
+            cookie.click()
+            current_time = time.time()
+            if current_time - last_upgrade_time >= UPGRADES_INTERVAL:
+                choose_upgrade()
+                last_upgrade_time = current_time
+            if current_time - start_time > (GAME_TIME_LIMIT * 60):
+                break
 
-    cookies_per_sec = driver.find_element(By.ID, value="cps").text
-    print(cookies_per_sec)
-    driver.close()
+        cookies_per_sec = driver.find_element(By.ID, value="cps").text
+        print(f"Final Cookies/sec: {cookies_per_sec}")
+        driver.close()
+    except (NoSuchWindowException, WebDriverException):
+        print("\nBrowser window was closed. Bot stopped.")
 
 def choose_upgrade():
     try:
